@@ -8,7 +8,7 @@ SimCSE在中文上无监督 + 有监督 pytorch版
 > directory: data/SNS-B/
 
 2.how to run?
-> SimCSE： python train.py
+> SimCSE： python train.py  
 > ESimCSE： python ESimCSE_train.py
 
 3.Result (un-supervised)  
