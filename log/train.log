@@ -361,3 +361,1274 @@
 2021-11-13 15:57:48.428 | INFO     | __main__:train:35 - loss: 0.0031
 2021-11-13 15:57:53.378 | INFO     | __main__:train:35 - loss: 0.0050
 2021-11-13 15:57:58.394 | INFO     | __main__:train:35 - loss: 0.0020
+2022-01-01 19:08:00.935 | INFO     | __main__:<module>:114 - run run run
+2022-01-01 19:08:20.584 | INFO     | __main__:<module>:114 - run run run
+2022-01-01 19:10:59.206 | INFO     | __main__:<module>:114 - run run run
+2022-01-01 19:12:02.191 | INFO     | __main__:<module>:114 - run run run
+2022-01-01 19:12:08.212 | INFO     | __main__:train:35 - loss: 0.8200
+2022-01-01 19:12:11.584 | INFO     | __main__:train:41 - higher corrcoef: 0.4314 in batch: 5, save model
+2022-01-01 19:12:12.792 | INFO     | __main__:train:35 - loss: 0.2061
+2022-01-01 19:12:16.318 | INFO     | __main__:train:41 - higher corrcoef: 0.5101 in batch: 10, save model
+2022-01-01 19:12:17.531 | INFO     | __main__:train:35 - loss: 0.1929
+2022-01-01 19:12:21.067 | INFO     | __main__:train:41 - higher corrcoef: 0.5610 in batch: 15, save model
+2022-01-01 19:12:22.228 | INFO     | __main__:train:35 - loss: 0.0677
+2022-01-01 19:12:25.528 | INFO     | __main__:train:41 - higher corrcoef: 0.5971 in batch: 20, save model
+2022-01-01 19:12:26.636 | INFO     | __main__:train:35 - loss: 0.0933
+2022-01-01 19:12:29.862 | INFO     | __main__:train:41 - higher corrcoef: 0.6180 in batch: 25, save model
+2022-01-01 19:12:30.983 | INFO     | __main__:train:35 - loss: 0.0454
+2022-01-01 19:12:34.256 | INFO     | __main__:train:41 - higher corrcoef: 0.6295 in batch: 30, save model
+2022-01-01 19:12:35.370 | INFO     | __main__:train:35 - loss: 0.0214
+2022-01-01 19:12:38.646 | INFO     | __main__:train:41 - higher corrcoef: 0.6373 in batch: 35, save model
+2022-01-01 19:12:39.760 | INFO     | __main__:train:35 - loss: 0.0204
+2022-01-01 19:12:43.052 | INFO     | __main__:train:41 - higher corrcoef: 0.6436 in batch: 40, save model
+2022-01-01 19:12:44.164 | INFO     | __main__:train:35 - loss: 0.0325
+2022-01-01 19:12:47.466 | INFO     | __main__:train:41 - higher corrcoef: 0.6486 in batch: 45, save model
+2022-01-01 19:12:48.580 | INFO     | __main__:train:35 - loss: 0.0712
+2022-01-01 19:12:51.823 | INFO     | __main__:train:41 - higher corrcoef: 0.6527 in batch: 50, save model
+2022-01-01 19:12:52.947 | INFO     | __main__:train:35 - loss: 0.0409
+2022-01-01 19:12:56.292 | INFO     | __main__:train:41 - higher corrcoef: 0.6565 in batch: 55, save model
+2022-01-01 19:12:57.411 | INFO     | __main__:train:35 - loss: 0.0714
+2022-01-01 19:13:00.683 | INFO     | __main__:train:41 - higher corrcoef: 0.6571 in batch: 60, save model
+2022-01-01 19:13:01.800 | INFO     | __main__:train:35 - loss: 0.0181
+2022-01-01 19:13:05.063 | INFO     | __main__:train:41 - higher corrcoef: 0.6584 in batch: 65, save model
+2022-01-01 19:13:06.179 | INFO     | __main__:train:35 - loss: 0.0068
+2022-01-01 19:13:09.494 | INFO     | __main__:train:41 - higher corrcoef: 0.6597 in batch: 70, save model
+2022-01-01 19:13:10.612 | INFO     | __main__:train:35 - loss: 0.0193
+2022-01-01 19:13:13.891 | INFO     | __main__:train:41 - higher corrcoef: 0.6609 in batch: 75, save model
+2022-01-01 19:13:15.014 | INFO     | __main__:train:35 - loss: 0.0166
+2022-01-01 19:13:18.263 | INFO     | __main__:train:41 - higher corrcoef: 0.6626 in batch: 80, save model
+2022-01-01 19:13:19.380 | INFO     | __main__:train:35 - loss: 0.0157
+2022-01-01 19:13:22.711 | INFO     | __main__:train:41 - higher corrcoef: 0.6641 in batch: 85, save model
+2022-01-01 19:13:23.829 | INFO     | __main__:train:35 - loss: 0.0858
+2022-01-01 19:13:27.111 | INFO     | __main__:train:41 - higher corrcoef: 0.6655 in batch: 90, save model
+2022-01-01 19:13:28.227 | INFO     | __main__:train:35 - loss: 0.0129
+2022-01-01 19:13:31.499 | INFO     | __main__:train:41 - higher corrcoef: 0.6664 in batch: 95, save model
+2022-01-01 19:13:32.617 | INFO     | __main__:train:35 - loss: 0.0185
+2022-01-01 19:13:35.904 | INFO     | __main__:train:41 - higher corrcoef: 0.6675 in batch: 100, save model
+2022-01-01 19:13:37.022 | INFO     | __main__:train:35 - loss: 0.0191
+2022-01-01 19:13:40.294 | INFO     | __main__:train:41 - higher corrcoef: 0.6685 in batch: 105, save model
+2022-01-01 19:13:41.412 | INFO     | __main__:train:35 - loss: 0.0068
+2022-01-01 19:13:44.689 | INFO     | __main__:train:41 - higher corrcoef: 0.6692 in batch: 110, save model
+2022-01-01 19:13:45.809 | INFO     | __main__:train:35 - loss: 0.0082
+2022-01-01 19:13:49.086 | INFO     | __main__:train:41 - higher corrcoef: 0.6705 in batch: 115, save model
+2022-01-01 19:13:50.210 | INFO     | __main__:train:35 - loss: 0.0113
+2022-01-01 19:13:53.472 | INFO     | __main__:train:41 - higher corrcoef: 0.6713 in batch: 120, save model
+2022-01-01 19:13:54.592 | INFO     | __main__:train:35 - loss: 0.0189
+2022-01-01 19:13:57.900 | INFO     | __main__:train:41 - higher corrcoef: 0.6716 in batch: 125, save model
+2022-01-01 19:13:59.020 | INFO     | __main__:train:35 - loss: 0.0088
+2022-01-01 19:14:03.411 | INFO     | __main__:train:35 - loss: 0.0056
+2022-01-01 19:14:06.730 | INFO     | __main__:train:41 - higher corrcoef: 0.6719 in batch: 135, save model
+2022-01-01 19:14:07.851 | INFO     | __main__:train:35 - loss: 0.0062
+2022-01-01 19:14:11.135 | INFO     | __main__:train:41 - higher corrcoef: 0.6726 in batch: 140, save model
+2022-01-01 19:14:12.254 | INFO     | __main__:train:35 - loss: 0.0091
+2022-01-01 19:14:15.537 | INFO     | __main__:train:41 - higher corrcoef: 0.6763 in batch: 145, save model
+2022-01-01 19:14:16.658 | INFO     | __main__:train:35 - loss: 0.0116
+2022-01-01 19:14:19.941 | INFO     | __main__:train:41 - higher corrcoef: 0.6778 in batch: 150, save model
+2022-01-01 19:14:21.068 | INFO     | __main__:train:35 - loss: 0.0090
+2022-01-01 19:14:24.358 | INFO     | __main__:train:41 - higher corrcoef: 0.6785 in batch: 155, save model
+2022-01-01 19:14:25.478 | INFO     | __main__:train:35 - loss: 0.0193
+2022-01-01 19:14:28.761 | INFO     | __main__:train:41 - higher corrcoef: 0.6794 in batch: 160, save model
+2022-01-01 19:14:29.884 | INFO     | __main__:train:35 - loss: 0.0132
+2022-01-01 19:14:33.176 | INFO     | __main__:train:41 - higher corrcoef: 0.6809 in batch: 165, save model
+2022-01-01 19:14:34.297 | INFO     | __main__:train:35 - loss: 0.0056
+2022-01-01 19:14:37.585 | INFO     | __main__:train:41 - higher corrcoef: 0.6814 in batch: 170, save model
+2022-01-01 19:14:38.708 | INFO     | __main__:train:35 - loss: 0.0912
+2022-01-01 19:14:41.989 | INFO     | __main__:train:41 - higher corrcoef: 0.6824 in batch: 175, save model
+2022-01-01 19:14:43.113 | INFO     | __main__:train:35 - loss: 0.0054
+2022-01-01 19:14:46.415 | INFO     | __main__:train:41 - higher corrcoef: 0.6838 in batch: 180, save model
+2022-01-01 19:14:47.540 | INFO     | __main__:train:35 - loss: 0.0059
+2022-01-01 19:14:50.867 | INFO     | __main__:train:41 - higher corrcoef: 0.6855 in batch: 185, save model
+2022-01-01 19:14:51.989 | INFO     | __main__:train:35 - loss: 0.0040
+2022-01-01 19:14:55.298 | INFO     | __main__:train:41 - higher corrcoef: 0.6867 in batch: 190, save model
+2022-01-01 19:14:56.419 | INFO     | __main__:train:35 - loss: 0.0033
+2022-01-01 19:14:59.709 | INFO     | __main__:train:41 - higher corrcoef: 0.6876 in batch: 195, save model
+2022-01-01 19:15:00.832 | INFO     | __main__:train:35 - loss: 0.0576
+2022-01-01 19:15:04.119 | INFO     | __main__:train:41 - higher corrcoef: 0.6887 in batch: 200, save model
+2022-01-01 19:15:05.249 | INFO     | __main__:train:35 - loss: 0.0040
+2022-01-01 19:15:08.526 | INFO     | __main__:train:41 - higher corrcoef: 0.6893 in batch: 205, save model
+2022-01-01 19:15:09.652 | INFO     | __main__:train:35 - loss: 0.0121
+2022-01-01 19:15:12.989 | INFO     | __main__:train:41 - higher corrcoef: 0.6899 in batch: 210, save model
+2022-01-01 19:15:14.119 | INFO     | __main__:train:35 - loss: 0.0071
+2022-01-01 19:15:17.405 | INFO     | __main__:train:41 - higher corrcoef: 0.6901 in batch: 215, save model
+2022-01-01 19:15:18.530 | INFO     | __main__:train:35 - loss: 0.0042
+2022-01-01 19:15:21.825 | INFO     | __main__:train:41 - higher corrcoef: 0.6903 in batch: 220, save model
+2022-01-01 19:15:22.949 | INFO     | __main__:train:35 - loss: 0.0035
+2022-01-01 19:15:26.242 | INFO     | __main__:train:41 - higher corrcoef: 0.6904 in batch: 225, save model
+2022-01-01 19:15:27.364 | INFO     | __main__:train:35 - loss: 0.0140
+2022-01-01 19:15:30.666 | INFO     | __main__:train:41 - higher corrcoef: 0.6905 in batch: 230, save model
+2022-01-01 19:15:31.789 | INFO     | __main__:train:35 - loss: 0.0050
+2022-01-01 19:15:35.085 | INFO     | __main__:train:41 - higher corrcoef: 0.6910 in batch: 235, save model
+2022-01-01 19:15:36.215 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-01 19:15:39.511 | INFO     | __main__:train:41 - higher corrcoef: 0.6913 in batch: 240, save model
+2022-01-01 19:15:40.637 | INFO     | __main__:train:35 - loss: 0.0043
+2022-01-01 19:15:45.031 | INFO     | __main__:train:35 - loss: 0.0032
+2022-01-01 19:15:49.465 | INFO     | __main__:train:35 - loss: 0.0030
+2022-01-01 19:15:53.881 | INFO     | __main__:train:35 - loss: 0.0065
+2022-01-01 19:15:58.335 | INFO     | __main__:train:35 - loss: 0.0024
+2022-01-01 19:16:02.754 | INFO     | __main__:train:35 - loss: 0.0044
+2022-01-01 19:16:06.054 | INFO     | __main__:train:41 - higher corrcoef: 0.6916 in batch: 270, save model
+2022-01-01 19:16:07.184 | INFO     | __main__:train:35 - loss: 0.0104
+2022-01-01 19:16:10.502 | INFO     | __main__:train:41 - higher corrcoef: 0.6927 in batch: 275, save model
+2022-01-01 19:16:11.629 | INFO     | __main__:train:35 - loss: 0.0509
+2022-01-01 19:16:14.946 | INFO     | __main__:train:41 - higher corrcoef: 0.6941 in batch: 280, save model
+2022-01-01 19:16:16.079 | INFO     | __main__:train:35 - loss: 0.0024
+2022-01-01 19:16:19.437 | INFO     | __main__:train:41 - higher corrcoef: 0.6971 in batch: 285, save model
+2022-01-01 19:16:20.574 | INFO     | __main__:train:35 - loss: 0.0074
+2022-01-01 19:16:23.917 | INFO     | __main__:train:41 - higher corrcoef: 0.6982 in batch: 290, save model
+2022-01-01 19:16:25.050 | INFO     | __main__:train:35 - loss: 0.0034
+2022-01-01 19:16:28.542 | INFO     | __main__:train:41 - higher corrcoef: 0.6989 in batch: 295, save model
+2022-01-01 19:16:29.667 | INFO     | __main__:train:35 - loss: 0.0039
+2022-01-01 19:16:33.294 | INFO     | __main__:train:41 - higher corrcoef: 0.6993 in batch: 300, save model
+2022-01-01 19:16:34.429 | INFO     | __main__:train:35 - loss: 0.0131
+2022-01-01 19:16:37.896 | INFO     | __main__:train:41 - higher corrcoef: 0.7004 in batch: 305, save model
+2022-01-01 19:16:39.126 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-01 19:16:42.465 | INFO     | __main__:train:41 - higher corrcoef: 0.7010 in batch: 310, save model
+2022-01-01 19:16:43.597 | INFO     | __main__:train:35 - loss: 0.0039
+2022-01-01 19:16:48.108 | INFO     | __main__:train:35 - loss: 0.0027
+2022-01-01 19:16:52.719 | INFO     | __main__:train:35 - loss: 0.0025
+2022-01-01 19:25:46.704 | INFO     | __main__:<module>:114 - run run run
+2022-01-01 19:25:50.770 | INFO     | __main__:train:35 - loss: 0.6595
+2022-01-01 19:25:54.028 | INFO     | __main__:train:41 - higher corrcoef: 0.4299 in batch: 5, save model
+2022-01-01 19:25:55.136 | INFO     | __main__:train:35 - loss: 0.2306
+2022-01-01 19:25:58.410 | INFO     | __main__:train:41 - higher corrcoef: 0.5207 in batch: 10, save model
+2022-01-01 19:25:59.620 | INFO     | __main__:train:35 - loss: 0.1757
+2022-01-01 19:26:03.136 | INFO     | __main__:train:41 - higher corrcoef: 0.5768 in batch: 15, save model
+2022-01-01 19:26:04.357 | INFO     | __main__:train:35 - loss: 0.0399
+2022-01-01 19:26:07.622 | INFO     | __main__:train:41 - higher corrcoef: 0.6123 in batch: 20, save model
+2022-01-01 19:26:08.743 | INFO     | __main__:train:35 - loss: 0.0461
+2022-01-01 19:26:11.973 | INFO     | __main__:train:41 - higher corrcoef: 0.6297 in batch: 25, save model
+2022-01-01 19:26:13.091 | INFO     | __main__:train:35 - loss: 0.0199
+2022-01-01 19:26:16.572 | INFO     | __main__:train:41 - higher corrcoef: 0.6399 in batch: 30, save model
+2022-01-01 19:26:17.723 | INFO     | __main__:train:35 - loss: 0.1089
+2022-01-01 19:26:21.017 | INFO     | __main__:train:41 - higher corrcoef: 0.6467 in batch: 35, save model
+2022-01-01 19:26:22.177 | INFO     | __main__:train:35 - loss: 0.0142
+2022-01-01 19:26:25.596 | INFO     | __main__:train:41 - higher corrcoef: 0.6517 in batch: 40, save model
+2022-01-01 19:26:26.808 | INFO     | __main__:train:35 - loss: 0.0106
+2022-01-01 19:26:30.351 | INFO     | __main__:train:41 - higher corrcoef: 0.6555 in batch: 45, save model
+2022-01-01 19:26:31.574 | INFO     | __main__:train:35 - loss: 0.0278
+2022-01-01 19:26:34.912 | INFO     | __main__:train:41 - higher corrcoef: 0.6586 in batch: 50, save model
+2022-01-01 19:26:36.040 | INFO     | __main__:train:35 - loss: 0.0453
+2022-01-01 19:26:39.373 | INFO     | __main__:train:41 - higher corrcoef: 0.6617 in batch: 55, save model
+2022-01-01 19:26:40.523 | INFO     | __main__:train:35 - loss: 0.0179
+2022-01-01 19:26:43.928 | INFO     | __main__:train:41 - higher corrcoef: 0.6644 in batch: 60, save model
+2022-01-01 19:26:45.062 | INFO     | __main__:train:35 - loss: 0.0212
+2022-01-01 19:26:48.402 | INFO     | __main__:train:41 - higher corrcoef: 0.6663 in batch: 65, save model
+2022-01-01 19:26:49.526 | INFO     | __main__:train:35 - loss: 0.0773
+2022-01-01 19:26:52.812 | INFO     | __main__:train:41 - higher corrcoef: 0.6672 in batch: 70, save model
+2022-01-01 19:26:53.943 | INFO     | __main__:train:35 - loss: 0.0984
+2022-01-01 19:26:57.420 | INFO     | __main__:train:41 - higher corrcoef: 0.6680 in batch: 75, save model
+2022-01-01 19:26:58.653 | INFO     | __main__:train:35 - loss: 0.0099
+2022-01-01 19:27:02.102 | INFO     | __main__:train:41 - higher corrcoef: 0.6688 in batch: 80, save model
+2022-01-01 19:27:03.286 | INFO     | __main__:train:35 - loss: 0.0141
+2022-01-01 19:27:06.872 | INFO     | __main__:train:41 - higher corrcoef: 0.6698 in batch: 85, save model
+2022-01-01 19:27:08.068 | INFO     | __main__:train:35 - loss: 0.0112
+2022-01-01 19:27:11.556 | INFO     | __main__:train:41 - higher corrcoef: 0.6705 in batch: 90, save model
+2022-01-01 19:27:12.784 | INFO     | __main__:train:35 - loss: 0.0160
+2022-01-01 19:27:16.354 | INFO     | __main__:train:41 - higher corrcoef: 0.6711 in batch: 95, save model
+2022-01-01 19:27:17.548 | INFO     | __main__:train:35 - loss: 0.0349
+2022-01-01 19:27:21.105 | INFO     | __main__:train:41 - higher corrcoef: 0.6722 in batch: 100, save model
+2022-01-01 19:27:22.262 | INFO     | __main__:train:35 - loss: 0.0125
+2022-01-01 19:27:25.749 | INFO     | __main__:train:41 - higher corrcoef: 0.6730 in batch: 105, save model
+2022-01-01 19:27:26.874 | INFO     | __main__:train:35 - loss: 0.0149
+2022-01-01 19:27:30.230 | INFO     | __main__:train:41 - higher corrcoef: 0.6733 in batch: 110, save model
+2022-01-01 19:27:31.443 | INFO     | __main__:train:35 - loss: 0.0192
+2022-01-01 19:27:36.093 | INFO     | __main__:train:35 - loss: 0.0109
+2022-01-01 19:27:39.502 | INFO     | __main__:train:41 - higher corrcoef: 0.6738 in batch: 120, save model
+2022-01-01 19:27:40.739 | INFO     | __main__:train:35 - loss: 0.0902
+2022-01-01 19:27:44.108 | INFO     | __main__:train:41 - higher corrcoef: 0.6745 in batch: 125, save model
+2022-01-01 19:27:45.258 | INFO     | __main__:train:35 - loss: 0.0062
+2022-01-01 19:27:49.739 | INFO     | __main__:train:35 - loss: 0.0052
+2022-01-01 19:27:54.267 | INFO     | __main__:train:35 - loss: 0.0043
+2022-01-01 19:27:58.764 | INFO     | __main__:train:35 - loss: 0.0058
+2022-01-01 19:28:03.259 | INFO     | __main__:train:35 - loss: 0.0066
+2022-01-01 19:28:07.765 | INFO     | __main__:train:35 - loss: 0.0461
+2022-01-01 19:28:11.106 | INFO     | __main__:train:41 - higher corrcoef: 0.6747 in batch: 155, save model
+2022-01-01 19:28:12.254 | INFO     | __main__:train:35 - loss: 0.0083
+2022-01-01 19:28:15.617 | INFO     | __main__:train:41 - higher corrcoef: 0.6760 in batch: 160, save model
+2022-01-01 19:28:16.785 | INFO     | __main__:train:35 - loss: 0.0052
+2022-01-01 19:28:20.142 | INFO     | __main__:train:41 - higher corrcoef: 0.6769 in batch: 165, save model
+2022-01-01 19:28:21.321 | INFO     | __main__:train:35 - loss: 0.0037
+2022-01-01 19:28:24.663 | INFO     | __main__:train:41 - higher corrcoef: 0.6776 in batch: 170, save model
+2022-01-01 19:28:25.832 | INFO     | __main__:train:35 - loss: 0.0048
+2022-01-01 19:28:29.193 | INFO     | __main__:train:41 - higher corrcoef: 0.6785 in batch: 175, save model
+2022-01-01 19:28:30.380 | INFO     | __main__:train:35 - loss: 0.0050
+2022-01-01 19:28:33.736 | INFO     | __main__:train:41 - higher corrcoef: 0.6796 in batch: 180, save model
+2022-01-01 19:28:34.909 | INFO     | __main__:train:35 - loss: 0.0077
+2022-01-01 19:28:38.341 | INFO     | __main__:train:41 - higher corrcoef: 0.6804 in batch: 185, save model
+2022-01-01 19:28:39.538 | INFO     | __main__:train:35 - loss: 0.0278
+2022-01-01 19:28:43.008 | INFO     | __main__:train:41 - higher corrcoef: 0.6808 in batch: 190, save model
+2022-01-01 19:28:44.256 | INFO     | __main__:train:35 - loss: 0.0041
+2022-01-01 19:28:47.791 | INFO     | __main__:train:41 - higher corrcoef: 0.6822 in batch: 195, save model
+2022-01-01 19:28:48.976 | INFO     | __main__:train:35 - loss: 0.0770
+2022-01-01 19:28:52.451 | INFO     | __main__:train:41 - higher corrcoef: 0.6835 in batch: 200, save model
+2022-01-01 19:28:53.599 | INFO     | __main__:train:35 - loss: 0.0057
+2022-01-01 19:28:56.983 | INFO     | __main__:train:41 - higher corrcoef: 0.6846 in batch: 205, save model
+2022-01-01 19:28:58.157 | INFO     | __main__:train:35 - loss: 0.0126
+2022-01-01 19:29:01.742 | INFO     | __main__:train:41 - higher corrcoef: 0.6852 in batch: 210, save model
+2022-01-01 19:29:02.898 | INFO     | __main__:train:35 - loss: 0.0038
+2022-01-01 19:29:06.568 | INFO     | __main__:train:41 - higher corrcoef: 0.6854 in batch: 215, save model
+2022-01-01 19:29:07.839 | INFO     | __main__:train:35 - loss: 0.0091
+2022-01-01 19:29:11.341 | INFO     | __main__:train:41 - higher corrcoef: 0.6855 in batch: 220, save model
+2022-01-01 19:29:12.596 | INFO     | __main__:train:35 - loss: 0.0080
+2022-01-01 19:29:16.169 | INFO     | __main__:train:41 - higher corrcoef: 0.6861 in batch: 225, save model
+2022-01-01 19:29:17.358 | INFO     | __main__:train:35 - loss: 0.0064
+2022-01-01 19:29:20.734 | INFO     | __main__:train:41 - higher corrcoef: 0.6865 in batch: 230, save model
+2022-01-01 19:29:21.917 | INFO     | __main__:train:35 - loss: 0.0048
+2022-01-01 19:29:25.341 | INFO     | __main__:train:41 - higher corrcoef: 0.6868 in batch: 235, save model
+2022-01-01 19:29:26.538 | INFO     | __main__:train:35 - loss: 0.0030
+2022-01-01 19:29:31.156 | INFO     | __main__:train:35 - loss: 0.0051
+2022-01-01 19:29:35.823 | INFO     | __main__:train:35 - loss: 0.0118
+2022-01-01 19:29:40.419 | INFO     | __main__:train:35 - loss: 0.0051
+2022-01-01 19:29:45.012 | INFO     | __main__:train:35 - loss: 0.0034
+2022-01-01 19:29:49.650 | INFO     | __main__:train:35 - loss: 0.0082
+2022-01-01 19:29:54.254 | INFO     | __main__:train:35 - loss: 0.0299
+2022-01-01 19:29:58.902 | INFO     | __main__:train:35 - loss: 0.0019
+2022-01-01 19:30:03.528 | INFO     | __main__:train:35 - loss: 0.0053
+2022-01-01 19:30:08.100 | INFO     | __main__:train:35 - loss: 0.0036
+2022-01-01 19:30:12.734 | INFO     | __main__:train:35 - loss: 0.0051
+2022-01-01 19:30:17.370 | INFO     | __main__:train:35 - loss: 0.0038
+2022-01-01 19:30:21.982 | INFO     | __main__:train:35 - loss: 0.0103
+2022-01-01 19:30:26.660 | INFO     | __main__:train:35 - loss: 0.0124
+2022-01-01 19:30:30.082 | INFO     | __main__:train:41 - higher corrcoef: 0.6885 in batch: 305, save model
+2022-01-01 19:30:31.265 | INFO     | __main__:train:35 - loss: 0.0025
+2022-01-01 19:30:34.731 | INFO     | __main__:train:41 - higher corrcoef: 0.6902 in batch: 310, save model
+2022-01-01 19:30:35.935 | INFO     | __main__:train:35 - loss: 0.0044
+2022-01-01 19:30:39.394 | INFO     | __main__:train:41 - higher corrcoef: 0.6908 in batch: 315, save model
+2022-01-01 19:30:40.575 | INFO     | __main__:train:35 - loss: 0.0035
+2022-01-01 19:30:43.988 | INFO     | __main__:train:41 - higher corrcoef: 0.6912 in batch: 320, save model
+2022-01-01 19:30:45.182 | INFO     | __main__:train:35 - loss: 0.0027
+2022-01-01 19:30:48.641 | INFO     | __main__:train:41 - higher corrcoef: 0.6916 in batch: 325, save model
+2022-01-01 19:34:16.917 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 18:57:15.153 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 18:57:22.311 | INFO     | __main__:train:35 - loss: 0.8066
+2022-01-08 18:57:25.954 | INFO     | __main__:train:41 - higher corrcoef: 0.5152 in batch: 5, save model
+2022-01-08 18:57:27.125 | INFO     | __main__:train:35 - loss: 0.2228
+2022-01-08 18:57:31.026 | INFO     | __main__:train:41 - higher corrcoef: 0.5860 in batch: 10, save model
+2022-01-08 18:57:32.202 | INFO     | __main__:train:35 - loss: 0.1177
+2022-01-08 18:57:35.910 | INFO     | __main__:train:41 - higher corrcoef: 0.6340 in batch: 15, save model
+2022-01-08 18:57:37.091 | INFO     | __main__:train:35 - loss: 0.0562
+2022-01-08 18:57:40.746 | INFO     | __main__:train:41 - higher corrcoef: 0.6685 in batch: 20, save model
+2022-01-08 18:57:41.869 | INFO     | __main__:train:35 - loss: 0.0406
+2022-01-08 18:57:45.878 | INFO     | __main__:train:41 - higher corrcoef: 0.6871 in batch: 25, save model
+2022-01-08 18:57:47.056 | INFO     | __main__:train:35 - loss: 0.0496
+2022-01-08 18:57:50.920 | INFO     | __main__:train:41 - higher corrcoef: 0.6969 in batch: 30, save model
+2022-01-08 18:57:52.101 | INFO     | __main__:train:35 - loss: 0.0376
+2022-01-08 18:57:55.914 | INFO     | __main__:train:41 - higher corrcoef: 0.7028 in batch: 35, save model
+2022-01-08 18:57:57.099 | INFO     | __main__:train:35 - loss: 0.0314
+2022-01-08 18:58:00.950 | INFO     | __main__:train:41 - higher corrcoef: 0.7074 in batch: 40, save model
+2022-01-08 18:58:02.121 | INFO     | __main__:train:35 - loss: 0.0358
+2022-01-08 18:58:05.998 | INFO     | __main__:train:41 - higher corrcoef: 0.7112 in batch: 45, save model
+2022-01-08 18:58:07.193 | INFO     | __main__:train:35 - loss: 0.0406
+2022-01-08 18:58:10.979 | INFO     | __main__:train:41 - higher corrcoef: 0.7149 in batch: 50, save model
+2022-01-08 18:58:12.129 | INFO     | __main__:train:35 - loss: 0.0151
+2022-01-08 18:58:15.949 | INFO     | __main__:train:41 - higher corrcoef: 0.7181 in batch: 55, save model
+2022-01-08 18:58:17.141 | INFO     | __main__:train:35 - loss: 0.0346
+2022-01-08 18:58:20.926 | INFO     | __main__:train:41 - higher corrcoef: 0.7204 in batch: 60, save model
+2022-01-08 18:58:22.042 | INFO     | __main__:train:35 - loss: 0.0160
+2022-01-08 18:58:25.813 | INFO     | __main__:train:41 - higher corrcoef: 0.7224 in batch: 65, save model
+2022-01-08 18:58:26.944 | INFO     | __main__:train:35 - loss: 0.0085
+2022-01-08 18:58:30.951 | INFO     | __main__:train:41 - higher corrcoef: 0.7237 in batch: 70, save model
+2022-01-08 18:58:32.171 | INFO     | __main__:train:35 - loss: 0.0101
+2022-01-08 18:58:35.894 | INFO     | __main__:train:41 - higher corrcoef: 0.7245 in batch: 75, save model
+2022-01-08 18:58:37.040 | INFO     | __main__:train:35 - loss: 0.0089
+2022-01-08 18:58:40.897 | INFO     | __main__:train:41 - higher corrcoef: 0.7261 in batch: 80, save model
+2022-01-08 18:58:42.086 | INFO     | __main__:train:35 - loss: 0.0173
+2022-01-08 18:58:45.816 | INFO     | __main__:train:41 - higher corrcoef: 0.7278 in batch: 85, save model
+2022-01-08 18:58:47.025 | INFO     | __main__:train:35 - loss: 0.0734
+2022-01-08 18:58:50.917 | INFO     | __main__:train:41 - higher corrcoef: 0.7281 in batch: 90, save model
+2022-01-08 18:58:52.101 | INFO     | __main__:train:35 - loss: 0.0222
+2022-01-08 18:58:57.142 | INFO     | __main__:train:35 - loss: 0.0220
+2022-01-08 18:59:02.163 | INFO     | __main__:train:35 - loss: 0.0308
+2022-01-08 18:59:07.268 | INFO     | __main__:train:35 - loss: 0.0074
+2022-01-08 18:59:12.252 | INFO     | __main__:train:35 - loss: 0.0465
+2022-01-08 18:59:16.045 | INFO     | __main__:train:41 - higher corrcoef: 0.7295 in batch: 115, save model
+2022-01-08 18:59:17.224 | INFO     | __main__:train:35 - loss: 0.0779
+2022-01-08 18:59:21.154 | INFO     | __main__:train:41 - higher corrcoef: 0.7319 in batch: 120, save model
+2022-01-08 18:59:22.354 | INFO     | __main__:train:35 - loss: 0.0072
+2022-01-08 18:59:26.371 | INFO     | __main__:train:41 - higher corrcoef: 0.7339 in batch: 125, save model
+2022-01-08 18:59:27.502 | INFO     | __main__:train:35 - loss: 0.0093
+2022-01-08 18:59:31.295 | INFO     | __main__:train:41 - higher corrcoef: 0.7356 in batch: 130, save model
+2022-01-08 18:59:32.492 | INFO     | __main__:train:35 - loss: 0.0176
+2022-01-08 18:59:36.216 | INFO     | __main__:train:41 - higher corrcoef: 0.7370 in batch: 135, save model
+2022-01-08 18:59:37.357 | INFO     | __main__:train:35 - loss: 0.0067
+2022-01-08 18:59:41.410 | INFO     | __main__:train:41 - higher corrcoef: 0.7381 in batch: 140, save model
+2022-01-08 18:59:42.519 | INFO     | __main__:train:35 - loss: 0.0599
+2022-01-08 18:59:46.339 | INFO     | __main__:train:41 - higher corrcoef: 0.7391 in batch: 145, save model
+2022-01-08 18:59:47.448 | INFO     | __main__:train:35 - loss: 0.0114
+2022-01-08 18:59:51.163 | INFO     | __main__:train:41 - higher corrcoef: 0.7396 in batch: 150, save model
+2022-01-08 18:59:52.277 | INFO     | __main__:train:35 - loss: 0.0087
+2022-01-08 18:59:55.972 | INFO     | __main__:train:41 - higher corrcoef: 0.7401 in batch: 155, save model
+2022-01-08 18:59:57.080 | INFO     | __main__:train:35 - loss: 0.0076
+2022-01-08 19:00:01.018 | INFO     | __main__:train:41 - higher corrcoef: 0.7406 in batch: 160, save model
+2022-01-08 19:00:02.191 | INFO     | __main__:train:35 - loss: 0.0112
+2022-01-08 19:00:05.917 | INFO     | __main__:train:41 - higher corrcoef: 0.7408 in batch: 165, save model
+2022-01-08 19:00:07.073 | INFO     | __main__:train:35 - loss: 0.0068
+2022-01-08 19:00:15.808 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 19:00:22.071 | INFO     | __main__:train:35 - loss: 2.5020
+2022-01-08 19:00:25.702 | INFO     | __main__:train:41 - higher corrcoef: 0.3312 in batch: 5, save model
+2022-01-08 19:00:26.847 | INFO     | __main__:train:35 - loss: 1.0407
+2022-01-08 19:00:30.488 | INFO     | __main__:train:41 - higher corrcoef: 0.3640 in batch: 10, save model
+2022-01-08 19:00:31.639 | INFO     | __main__:train:35 - loss: 0.4985
+2022-01-08 19:00:35.261 | INFO     | __main__:train:41 - higher corrcoef: 0.4013 in batch: 15, save model
+2022-01-08 19:00:36.404 | INFO     | __main__:train:35 - loss: 0.2197
+2022-01-08 19:00:40.116 | INFO     | __main__:train:41 - higher corrcoef: 0.4402 in batch: 20, save model
+2022-01-08 19:00:41.265 | INFO     | __main__:train:35 - loss: 0.1918
+2022-01-08 19:00:44.901 | INFO     | __main__:train:41 - higher corrcoef: 0.4624 in batch: 25, save model
+2022-01-08 19:00:46.045 | INFO     | __main__:train:35 - loss: 0.1505
+2022-01-08 19:00:49.697 | INFO     | __main__:train:41 - higher corrcoef: 0.4781 in batch: 30, save model
+2022-01-08 19:00:50.844 | INFO     | __main__:train:35 - loss: 0.1512
+2022-01-08 19:00:54.512 | INFO     | __main__:train:41 - higher corrcoef: 0.4861 in batch: 35, save model
+2022-01-08 19:00:55.656 | INFO     | __main__:train:35 - loss: 0.2911
+2022-01-08 19:00:59.320 | INFO     | __main__:train:41 - higher corrcoef: 0.4909 in batch: 40, save model
+2022-01-08 19:01:00.477 | INFO     | __main__:train:35 - loss: 0.0516
+2022-01-08 19:01:04.221 | INFO     | __main__:train:41 - higher corrcoef: 0.4941 in batch: 45, save model
+2022-01-08 19:01:05.376 | INFO     | __main__:train:35 - loss: 0.0500
+2022-01-08 19:01:09.033 | INFO     | __main__:train:41 - higher corrcoef: 0.4963 in batch: 50, save model
+2022-01-08 19:01:10.189 | INFO     | __main__:train:35 - loss: 0.0381
+2022-01-08 19:01:13.852 | INFO     | __main__:train:41 - higher corrcoef: 0.4993 in batch: 55, save model
+2022-01-08 19:01:15.005 | INFO     | __main__:train:35 - loss: 0.1082
+2022-01-08 19:01:18.676 | INFO     | __main__:train:41 - higher corrcoef: 0.5024 in batch: 60, save model
+2022-01-08 19:01:19.823 | INFO     | __main__:train:35 - loss: 0.0152
+2022-01-08 19:01:23.487 | INFO     | __main__:train:41 - higher corrcoef: 0.5046 in batch: 65, save model
+2022-01-08 19:01:24.643 | INFO     | __main__:train:35 - loss: 0.0673
+2022-01-08 19:01:28.321 | INFO     | __main__:train:41 - higher corrcoef: 0.5058 in batch: 70, save model
+2022-01-08 19:01:29.483 | INFO     | __main__:train:35 - loss: 0.1407
+2022-01-08 19:01:33.150 | INFO     | __main__:train:41 - higher corrcoef: 0.5061 in batch: 75, save model
+2022-01-08 19:01:34.305 | INFO     | __main__:train:35 - loss: 0.0235
+2022-01-08 19:01:39.146 | INFO     | __main__:train:35 - loss: 0.0402
+2022-01-08 19:01:43.955 | INFO     | __main__:train:35 - loss: 0.0891
+2022-01-08 19:01:48.791 | INFO     | __main__:train:35 - loss: 0.1035
+2022-01-08 19:01:53.608 | INFO     | __main__:train:35 - loss: 0.0185
+2022-01-08 19:01:58.424 | INFO     | __main__:train:35 - loss: 0.0685
+2022-01-08 19:02:03.259 | INFO     | __main__:train:35 - loss: 0.0355
+2022-01-08 19:02:06.930 | INFO     | __main__:train:41 - higher corrcoef: 0.5061 in batch: 110, save model
+2022-01-08 19:02:08.074 | INFO     | __main__:train:35 - loss: 0.0495
+2022-01-08 19:02:11.748 | INFO     | __main__:train:41 - higher corrcoef: 0.5086 in batch: 115, save model
+2022-01-08 19:02:12.895 | INFO     | __main__:train:35 - loss: 0.0237
+2022-01-08 19:02:16.558 | INFO     | __main__:train:41 - higher corrcoef: 0.5109 in batch: 120, save model
+2022-01-08 19:02:17.704 | INFO     | __main__:train:35 - loss: 0.0269
+2022-01-08 19:02:21.376 | INFO     | __main__:train:41 - higher corrcoef: 0.5134 in batch: 125, save model
+2022-01-08 19:02:22.522 | INFO     | __main__:train:35 - loss: 0.0209
+2022-01-08 19:02:26.191 | INFO     | __main__:train:41 - higher corrcoef: 0.5153 in batch: 130, save model
+2022-01-08 19:02:27.346 | INFO     | __main__:train:35 - loss: 0.0569
+2022-01-08 19:02:31.030 | INFO     | __main__:train:41 - higher corrcoef: 0.5160 in batch: 135, save model
+2022-01-08 19:02:32.186 | INFO     | __main__:train:35 - loss: 0.0185
+2022-01-08 19:02:35.859 | INFO     | __main__:train:41 - higher corrcoef: 0.5171 in batch: 140, save model
+2022-01-08 19:02:36.996 | INFO     | __main__:train:35 - loss: 0.0274
+2022-01-08 19:02:41.890 | INFO     | __main__:train:35 - loss: 0.0118
+2022-01-08 19:02:46.714 | INFO     | __main__:train:35 - loss: 0.0151
+2022-01-08 19:02:51.595 | INFO     | __main__:train:35 - loss: 0.0282
+2022-01-08 19:02:56.417 | INFO     | __main__:train:35 - loss: 0.0232
+2022-01-08 19:03:01.265 | INFO     | __main__:train:35 - loss: 0.0160
+2022-01-08 19:03:06.088 | INFO     | __main__:train:35 - loss: 0.0696
+2022-01-08 19:03:10.905 | INFO     | __main__:train:35 - loss: 0.0165
+2022-01-08 19:03:15.799 | INFO     | __main__:train:35 - loss: 0.0112
+2022-01-08 19:03:20.668 | INFO     | __main__:train:35 - loss: 0.0191
+2022-01-08 19:03:24.372 | INFO     | __main__:train:41 - higher corrcoef: 0.5186 in batch: 190, save model
+2022-01-08 19:03:25.553 | INFO     | __main__:train:35 - loss: 0.0151
+2022-01-08 19:03:29.270 | INFO     | __main__:train:41 - higher corrcoef: 0.5188 in batch: 195, save model
+2022-01-08 19:03:30.498 | INFO     | __main__:train:35 - loss: 0.0510
+2022-01-08 19:04:01.748 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 19:04:07.691 | INFO     | __main__:train:35 - loss: 0.2242
+2022-01-08 19:04:11.350 | INFO     | __main__:train:41 - higher corrcoef: 0.5385 in batch: 5, save model
+2022-01-08 19:04:12.476 | INFO     | __main__:train:35 - loss: 0.0194
+2022-01-08 19:04:16.044 | INFO     | __main__:train:41 - higher corrcoef: 0.6206 in batch: 10, save model
+2022-01-08 19:04:17.165 | INFO     | __main__:train:35 - loss: 0.0147
+2022-01-08 19:04:20.782 | INFO     | __main__:train:41 - higher corrcoef: 0.6548 in batch: 15, save model
+2022-01-08 19:04:21.907 | INFO     | __main__:train:35 - loss: 0.0383
+2022-01-08 19:04:25.497 | INFO     | __main__:train:41 - higher corrcoef: 0.6740 in batch: 20, save model
+2022-01-08 19:04:26.615 | INFO     | __main__:train:35 - loss: 0.0135
+2022-01-08 19:04:30.211 | INFO     | __main__:train:41 - higher corrcoef: 0.6862 in batch: 25, save model
+2022-01-08 19:04:31.342 | INFO     | __main__:train:35 - loss: 0.0197
+2022-01-08 19:04:34.953 | INFO     | __main__:train:41 - higher corrcoef: 0.6930 in batch: 30, save model
+2022-01-08 19:04:36.070 | INFO     | __main__:train:35 - loss: 0.0218
+2022-01-08 19:04:39.732 | INFO     | __main__:train:41 - higher corrcoef: 0.6978 in batch: 35, save model
+2022-01-08 19:04:40.862 | INFO     | __main__:train:35 - loss: 0.0120
+2022-01-08 19:04:44.480 | INFO     | __main__:train:41 - higher corrcoef: 0.7019 in batch: 40, save model
+2022-01-08 19:04:45.612 | INFO     | __main__:train:35 - loss: 0.0705
+2022-01-08 19:04:49.226 | INFO     | __main__:train:41 - higher corrcoef: 0.7061 in batch: 45, save model
+2022-01-08 19:04:50.369 | INFO     | __main__:train:35 - loss: 0.0091
+2022-01-08 19:04:53.991 | INFO     | __main__:train:41 - higher corrcoef: 0.7095 in batch: 50, save model
+2022-01-08 19:04:55.135 | INFO     | __main__:train:35 - loss: 0.0092
+2022-01-08 19:04:58.755 | INFO     | __main__:train:41 - higher corrcoef: 0.7118 in batch: 55, save model
+2022-01-08 19:04:59.888 | INFO     | __main__:train:35 - loss: 0.0436
+2022-01-08 19:05:03.514 | INFO     | __main__:train:41 - higher corrcoef: 0.7133 in batch: 60, save model
+2022-01-08 19:05:04.646 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:05:08.289 | INFO     | __main__:train:41 - higher corrcoef: 0.7149 in batch: 65, save model
+2022-01-08 19:05:09.428 | INFO     | __main__:train:35 - loss: 0.0087
+2022-01-08 19:05:13.138 | INFO     | __main__:train:41 - higher corrcoef: 0.7160 in batch: 70, save model
+2022-01-08 19:05:14.284 | INFO     | __main__:train:35 - loss: 0.0023
+2022-01-08 19:05:17.932 | INFO     | __main__:train:41 - higher corrcoef: 0.7170 in batch: 75, save model
+2022-01-08 19:05:19.071 | INFO     | __main__:train:35 - loss: 0.0162
+2022-01-08 19:05:22.726 | INFO     | __main__:train:41 - higher corrcoef: 0.7184 in batch: 80, save model
+2022-01-08 19:05:23.873 | INFO     | __main__:train:35 - loss: 0.0063
+2022-01-08 19:05:27.513 | INFO     | __main__:train:41 - higher corrcoef: 0.7202 in batch: 85, save model
+2022-01-08 19:05:28.652 | INFO     | __main__:train:35 - loss: 0.0023
+2022-01-08 19:05:32.380 | INFO     | __main__:train:41 - higher corrcoef: 0.7211 in batch: 90, save model
+2022-01-08 19:05:33.526 | INFO     | __main__:train:35 - loss: 0.0045
+2022-01-08 19:05:37.193 | INFO     | __main__:train:41 - higher corrcoef: 0.7213 in batch: 95, save model
+2022-01-08 19:05:38.340 | INFO     | __main__:train:35 - loss: 0.0733
+2022-01-08 19:05:43.232 | INFO     | __main__:train:35 - loss: 0.0040
+2022-01-08 19:05:48.066 | INFO     | __main__:train:35 - loss: 0.0173
+2022-01-08 19:05:52.992 | INFO     | __main__:train:35 - loss: 0.0671
+2022-01-08 19:05:57.876 | INFO     | __main__:train:35 - loss: 0.0035
+2022-01-08 19:06:02.694 | INFO     | __main__:train:35 - loss: 0.0039
+2022-01-08 19:06:07.524 | INFO     | __main__:train:35 - loss: 0.0023
+2022-01-08 19:06:12.567 | INFO     | __main__:train:35 - loss: 0.0060
+2022-01-08 19:06:17.726 | INFO     | __main__:train:35 - loss: 0.0016
+2022-01-08 19:06:22.793 | INFO     | __main__:train:35 - loss: 0.0123
+2022-01-08 19:06:26.472 | INFO     | __main__:train:41 - higher corrcoef: 0.7215 in batch: 145, save model
+2022-01-08 19:06:27.614 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-08 19:06:31.283 | INFO     | __main__:train:41 - higher corrcoef: 0.7217 in batch: 150, save model
+2022-01-08 19:06:32.428 | INFO     | __main__:train:35 - loss: 0.0044
+2022-01-08 19:06:36.102 | INFO     | __main__:train:41 - higher corrcoef: 0.7222 in batch: 155, save model
+2022-01-08 19:06:37.241 | INFO     | __main__:train:35 - loss: 0.0055
+2022-01-08 19:06:40.991 | INFO     | __main__:train:41 - higher corrcoef: 0.7231 in batch: 160, save model
+2022-01-08 19:06:42.137 | INFO     | __main__:train:35 - loss: 0.0028
+2022-01-08 19:06:45.809 | INFO     | __main__:train:41 - higher corrcoef: 0.7245 in batch: 165, save model
+2022-01-08 19:06:46.958 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:06:50.638 | INFO     | __main__:train:41 - higher corrcoef: 0.7258 in batch: 170, save model
+2022-01-08 19:06:51.779 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:06:55.497 | INFO     | __main__:train:41 - higher corrcoef: 0.7269 in batch: 175, save model
+2022-01-08 19:06:56.646 | INFO     | __main__:train:35 - loss: 0.0023
+2022-01-08 19:07:01.549 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:07:06.494 | INFO     | __main__:train:35 - loss: 0.0020
+2022-01-08 19:07:11.442 | INFO     | __main__:train:35 - loss: 0.0063
+2022-01-08 19:07:16.283 | INFO     | __main__:train:35 - loss: 0.0014
+2022-01-08 19:07:21.119 | INFO     | __main__:train:35 - loss: 0.0024
+2022-01-08 19:07:25.955 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:07:30.810 | INFO     | __main__:train:35 - loss: 0.0055
+2022-01-08 19:07:35.686 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:07:40.619 | INFO     | __main__:train:35 - loss: 0.0031
+2022-01-08 19:07:45.488 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:07:50.355 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-08 19:07:54.328 | INFO     | __main__:train:41 - higher corrcoef: 0.7276 in batch: 235, save model
+2022-01-08 19:07:55.511 | INFO     | __main__:train:35 - loss: 0.0019
+2022-01-08 19:07:59.224 | INFO     | __main__:train:41 - higher corrcoef: 0.7286 in batch: 240, save model
+2022-01-08 19:08:00.380 | INFO     | __main__:train:35 - loss: 0.0021
+2022-01-08 19:08:04.098 | INFO     | __main__:train:41 - higher corrcoef: 0.7294 in batch: 245, save model
+2022-01-08 19:08:05.254 | INFO     | __main__:train:35 - loss: 0.0048
+2022-01-08 19:08:08.999 | INFO     | __main__:train:41 - higher corrcoef: 0.7302 in batch: 250, save model
+2022-01-08 19:08:10.151 | INFO     | __main__:train:35 - loss: 0.0077
+2022-01-08 19:08:13.882 | INFO     | __main__:train:41 - higher corrcoef: 0.7316 in batch: 255, save model
+2022-01-08 19:08:15.039 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:08:19.909 | INFO     | __main__:train:35 - loss: 0.0014
+2022-01-08 19:08:24.797 | INFO     | __main__:train:35 - loss: 0.0016
+2022-01-08 19:08:29.975 | INFO     | __main__:train:35 - loss: 0.0027
+2022-01-08 19:08:35.144 | INFO     | __main__:train:35 - loss: 0.0013
+2022-01-08 19:08:40.123 | INFO     | __main__:train:35 - loss: 0.0010
+2022-01-08 19:08:45.060 | INFO     | __main__:train:35 - loss: 0.0060
+2022-01-08 19:08:49.998 | INFO     | __main__:train:35 - loss: 0.0011
+2022-01-08 19:08:54.972 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:08:59.943 | INFO     | __main__:train:35 - loss: 0.0011
+2022-01-08 19:09:04.888 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:09:09.813 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:09:14.755 | INFO     | __main__:train:35 - loss: 0.0138
+2022-01-08 19:09:19.681 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:09:23.478 | INFO     | __main__:train:41 - higher corrcoef: 0.7329 in batch: 325, save model
+2022-01-08 19:10:21.612 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 19:10:25.792 | INFO     | __main__:train:35 - loss: 1.6272
+2022-01-08 19:10:29.227 | INFO     | __main__:train:41 - higher corrcoef: 0.5834 in batch: 5, save model
+2022-01-08 19:10:30.347 | INFO     | __main__:train:35 - loss: 0.2888
+2022-01-08 19:10:33.701 | INFO     | __main__:train:41 - higher corrcoef: 0.6220 in batch: 10, save model
+2022-01-08 19:10:34.840 | INFO     | __main__:train:35 - loss: 0.0727
+2022-01-08 19:10:39.405 | INFO     | __main__:train:35 - loss: 0.0266
+2022-01-08 19:10:43.913 | INFO     | __main__:train:35 - loss: 0.0791
+2022-01-08 19:10:47.349 | INFO     | __main__:train:41 - higher corrcoef: 0.6277 in batch: 25, save model
+2022-01-08 19:10:48.498 | INFO     | __main__:train:35 - loss: 0.0844
+2022-01-08 19:10:51.903 | INFO     | __main__:train:41 - higher corrcoef: 0.6344 in batch: 30, save model
+2022-01-08 19:10:53.037 | INFO     | __main__:train:35 - loss: 0.0194
+2022-01-08 19:10:56.443 | INFO     | __main__:train:41 - higher corrcoef: 0.6399 in batch: 35, save model
+2022-01-08 19:10:57.586 | INFO     | __main__:train:35 - loss: 0.0166
+2022-01-08 19:11:00.981 | INFO     | __main__:train:41 - higher corrcoef: 0.6408 in batch: 40, save model
+2022-01-08 19:11:02.118 | INFO     | __main__:train:35 - loss: 0.0077
+2022-01-08 19:11:05.543 | INFO     | __main__:train:41 - higher corrcoef: 0.6416 in batch: 45, save model
+2022-01-08 19:11:06.688 | INFO     | __main__:train:35 - loss: 0.0759
+2022-01-08 19:11:10.099 | INFO     | __main__:train:41 - higher corrcoef: 0.6420 in batch: 50, save model
+2022-01-08 19:11:11.243 | INFO     | __main__:train:35 - loss: 0.0094
+2022-01-08 19:11:15.786 | INFO     | __main__:train:35 - loss: 0.0081
+2022-01-08 19:11:20.401 | INFO     | __main__:train:35 - loss: 0.0064
+2022-01-08 19:11:24.974 | INFO     | __main__:train:35 - loss: 0.0025
+2022-01-08 19:11:29.552 | INFO     | __main__:train:35 - loss: 0.0034
+2022-01-08 19:11:32.985 | INFO     | __main__:train:41 - higher corrcoef: 0.6426 in batch: 75, save model
+2022-01-08 19:11:34.129 | INFO     | __main__:train:35 - loss: 0.0021
+2022-01-08 19:11:37.575 | INFO     | __main__:train:41 - higher corrcoef: 0.6434 in batch: 80, save model
+2022-01-08 19:11:38.794 | INFO     | __main__:train:35 - loss: 0.0022
+2022-01-08 19:11:43.631 | INFO     | __main__:train:35 - loss: 0.0019
+2022-01-08 19:11:48.357 | INFO     | __main__:train:35 - loss: 0.0024
+2022-01-08 19:11:53.429 | INFO     | __main__:train:35 - loss: 0.0021
+2022-01-08 19:11:58.107 | INFO     | __main__:train:35 - loss: 0.0024
+2022-01-08 19:12:02.801 | INFO     | __main__:train:35 - loss: 0.0044
+2022-01-08 19:12:07.456 | INFO     | __main__:train:35 - loss: 0.0597
+2022-01-08 19:12:12.136 | INFO     | __main__:train:35 - loss: 0.0054
+2022-01-08 19:12:15.648 | INFO     | __main__:train:41 - higher corrcoef: 0.6452 in batch: 120, save model
+2022-01-08 19:12:16.821 | INFO     | __main__:train:35 - loss: 0.0181
+2022-01-08 19:12:20.336 | INFO     | __main__:train:41 - higher corrcoef: 0.6486 in batch: 125, save model
+2022-01-08 19:12:21.538 | INFO     | __main__:train:35 - loss: 0.0010
+2022-01-08 19:12:25.045 | INFO     | __main__:train:41 - higher corrcoef: 0.6506 in batch: 130, save model
+2022-01-08 19:12:26.232 | INFO     | __main__:train:35 - loss: 0.0019
+2022-01-08 19:12:29.761 | INFO     | __main__:train:41 - higher corrcoef: 0.6519 in batch: 135, save model
+2022-01-08 19:12:30.938 | INFO     | __main__:train:35 - loss: 0.0025
+2022-01-08 19:12:34.480 | INFO     | __main__:train:41 - higher corrcoef: 0.6526 in batch: 140, save model
+2022-01-08 19:12:35.667 | INFO     | __main__:train:35 - loss: 0.0389
+2022-01-08 19:12:39.254 | INFO     | __main__:train:41 - higher corrcoef: 0.6527 in batch: 145, save model
+2022-01-08 19:12:40.448 | INFO     | __main__:train:35 - loss: 0.0011
+2022-01-08 19:12:45.185 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:12:49.924 | INFO     | __main__:train:35 - loss: 0.0028
+2022-01-08 19:12:54.644 | INFO     | __main__:train:35 - loss: 0.0082
+2022-01-08 19:12:58.264 | INFO     | __main__:train:41 - higher corrcoef: 0.6542 in batch: 165, save model
+2022-01-08 19:12:59.459 | INFO     | __main__:train:35 - loss: 0.0028
+2022-01-08 19:13:03.038 | INFO     | __main__:train:41 - higher corrcoef: 0.6554 in batch: 170, save model
+2022-01-08 19:13:04.248 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:13:07.813 | INFO     | __main__:train:41 - higher corrcoef: 0.6562 in batch: 175, save model
+2022-01-08 19:13:09.014 | INFO     | __main__:train:35 - loss: 0.0019
+2022-01-08 19:13:12.563 | INFO     | __main__:train:41 - higher corrcoef: 0.6563 in batch: 180, save model
+2022-01-08 19:13:13.760 | INFO     | __main__:train:35 - loss: 0.0042
+2022-01-08 19:13:18.531 | INFO     | __main__:train:35 - loss: 0.0024
+2022-01-08 19:13:23.302 | INFO     | __main__:train:35 - loss: 0.0021
+2022-01-08 19:13:28.061 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:13:32.802 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:13:37.563 | INFO     | __main__:train:35 - loss: 0.0057
+2022-01-08 19:13:42.410 | INFO     | __main__:train:35 - loss: 0.0010
+2022-01-08 19:13:47.183 | INFO     | __main__:train:35 - loss: 0.0014
+2022-01-08 19:13:51.931 | INFO     | __main__:train:35 - loss: 0.0029
+2022-01-08 19:13:56.696 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:14:01.460 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:14:06.222 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:14:10.992 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:14:15.759 | INFO     | __main__:train:35 - loss: 0.0025
+2022-01-08 19:14:19.309 | INFO     | __main__:train:41 - higher corrcoef: 0.6566 in batch: 250, save model
+2022-01-08 19:14:20.513 | INFO     | __main__:train:35 - loss: 0.0028
+2022-01-08 19:14:24.071 | INFO     | __main__:train:41 - higher corrcoef: 0.6573 in batch: 255, save model
+2022-01-08 19:14:25.278 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:14:28.839 | INFO     | __main__:train:41 - higher corrcoef: 0.6582 in batch: 260, save model
+2022-01-08 19:14:30.050 | INFO     | __main__:train:35 - loss: 0.0011
+2022-01-08 19:14:33.614 | INFO     | __main__:train:41 - higher corrcoef: 0.6588 in batch: 265, save model
+2022-01-08 19:14:34.802 | INFO     | __main__:train:35 - loss: 0.0027
+2022-01-08 19:14:38.376 | INFO     | __main__:train:41 - higher corrcoef: 0.6602 in batch: 270, save model
+2022-01-08 19:14:39.623 | INFO     | __main__:train:35 - loss: 0.0028
+2022-01-08 19:14:43.198 | INFO     | __main__:train:41 - higher corrcoef: 0.6611 in batch: 275, save model
+2022-01-08 19:14:44.405 | INFO     | __main__:train:35 - loss: 0.0007
+2022-01-08 19:14:47.986 | INFO     | __main__:train:41 - higher corrcoef: 0.6619 in batch: 280, save model
+2022-01-08 19:14:49.198 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:14:52.763 | INFO     | __main__:train:41 - higher corrcoef: 0.6623 in batch: 285, save model
+2022-01-08 19:14:53.953 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:14:58.727 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:15:03.497 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:15:08.260 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:15:13.029 | INFO     | __main__:train:35 - loss: 0.0027
+2022-01-08 19:15:17.778 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:15:22.543 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:15:26.116 | INFO     | __main__:train:41 - higher corrcoef: 0.6627 in batch: 320, save model
+2022-01-08 19:15:27.315 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:15:30.891 | INFO     | __main__:train:41 - higher corrcoef: 0.6631 in batch: 325, save model
+2022-01-08 19:19:47.638 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 19:19:51.815 | INFO     | __main__:train:35 - loss: 0.2321
+2022-01-08 19:19:55.242 | INFO     | __main__:train:41 - higher corrcoef: 0.6195 in batch: 5, save model
+2022-01-08 19:19:56.394 | INFO     | __main__:train:35 - loss: 0.0719
+2022-01-08 19:19:59.744 | INFO     | __main__:train:41 - higher corrcoef: 0.6306 in batch: 10, save model
+2022-01-08 19:20:00.859 | INFO     | __main__:train:35 - loss: 0.0467
+2022-01-08 19:20:04.229 | INFO     | __main__:train:41 - higher corrcoef: 0.6388 in batch: 15, save model
+2022-01-08 19:20:05.347 | INFO     | __main__:train:35 - loss: 0.0501
+2022-01-08 19:20:08.838 | INFO     | __main__:train:41 - higher corrcoef: 0.6456 in batch: 20, save model
+2022-01-08 19:20:10.005 | INFO     | __main__:train:35 - loss: 0.0122
+2022-01-08 19:20:13.515 | INFO     | __main__:train:41 - higher corrcoef: 0.6497 in batch: 25, save model
+2022-01-08 19:20:14.703 | INFO     | __main__:train:35 - loss: 0.0520
+2022-01-08 19:20:18.079 | INFO     | __main__:train:41 - higher corrcoef: 0.6519 in batch: 30, save model
+2022-01-08 19:20:19.300 | INFO     | __main__:train:35 - loss: 0.0515
+2022-01-08 19:20:22.969 | INFO     | __main__:train:41 - higher corrcoef: 0.6548 in batch: 35, save model
+2022-01-08 19:20:24.108 | INFO     | __main__:train:35 - loss: 0.0594
+2022-01-08 19:20:27.555 | INFO     | __main__:train:41 - higher corrcoef: 0.6601 in batch: 40, save model
+2022-01-08 19:20:28.705 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:20:32.234 | INFO     | __main__:train:41 - higher corrcoef: 0.6626 in batch: 45, save model
+2022-01-08 19:20:33.384 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-08 19:20:36.818 | INFO     | __main__:train:41 - higher corrcoef: 0.6634 in batch: 50, save model
+2022-01-08 19:20:37.991 | INFO     | __main__:train:35 - loss: 0.0180
+2022-01-08 19:20:41.601 | INFO     | __main__:train:41 - higher corrcoef: 0.6647 in batch: 55, save model
+2022-01-08 19:20:42.753 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:20:47.430 | INFO     | __main__:train:35 - loss: 0.0032
+2022-01-08 19:20:50.897 | INFO     | __main__:train:41 - higher corrcoef: 0.6659 in batch: 65, save model
+2022-01-08 19:20:52.076 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:20:55.509 | INFO     | __main__:train:41 - higher corrcoef: 0.6676 in batch: 70, save model
+2022-01-08 19:20:56.669 | INFO     | __main__:train:35 - loss: 0.0024
+2022-01-08 19:21:00.118 | INFO     | __main__:train:41 - higher corrcoef: 0.6693 in batch: 75, save model
+2022-01-08 19:21:01.297 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:21:04.764 | INFO     | __main__:train:41 - higher corrcoef: 0.6695 in batch: 80, save model
+2022-01-08 19:21:05.907 | INFO     | __main__:train:35 - loss: 0.0025
+2022-01-08 19:21:10.746 | INFO     | __main__:train:35 - loss: 0.0022
+2022-01-08 19:21:15.405 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:21:19.096 | INFO     | __main__:train:41 - higher corrcoef: 0.6701 in batch: 95, save model
+2022-01-08 19:21:20.322 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:21:23.942 | INFO     | __main__:train:41 - higher corrcoef: 0.6718 in batch: 100, save model
+2022-01-08 19:21:25.154 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-08 19:21:28.771 | INFO     | __main__:train:41 - higher corrcoef: 0.6730 in batch: 105, save model
+2022-01-08 19:21:29.924 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:21:33.509 | INFO     | __main__:train:41 - higher corrcoef: 0.6766 in batch: 110, save model
+2022-01-08 19:21:34.728 | INFO     | __main__:train:35 - loss: 0.0010
+2022-01-08 19:21:38.351 | INFO     | __main__:train:41 - higher corrcoef: 0.6783 in batch: 115, save model
+2022-01-08 19:21:39.544 | INFO     | __main__:train:35 - loss: 0.0013
+2022-01-08 19:21:44.165 | INFO     | __main__:train:35 - loss: 0.0263
+2022-01-08 19:21:48.772 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-08 19:21:53.416 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-08 19:21:58.167 | INFO     | __main__:train:35 - loss: 0.0109
+2022-01-08 19:22:01.650 | INFO     | __main__:train:41 - higher corrcoef: 0.6791 in batch: 140, save model
+2022-01-08 19:22:02.819 | INFO     | __main__:train:35 - loss: 0.0399
+2022-01-08 19:22:07.526 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:22:12.175 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:22:15.676 | INFO     | __main__:train:41 - higher corrcoef: 0.6825 in batch: 155, save model
+2022-01-08 19:22:16.841 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:22:20.349 | INFO     | __main__:train:41 - higher corrcoef: 0.6873 in batch: 160, save model
+2022-01-08 19:22:21.587 | INFO     | __main__:train:35 - loss: 0.0098
+2022-01-08 19:22:25.073 | INFO     | __main__:train:41 - higher corrcoef: 0.6889 in batch: 165, save model
+2022-01-08 19:22:26.240 | INFO     | __main__:train:35 - loss: 0.0007
+2022-01-08 19:22:30.943 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:22:35.663 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:22:40.342 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:22:44.987 | INFO     | __main__:train:35 - loss: 0.0039
+2022-01-08 19:22:49.682 | INFO     | __main__:train:35 - loss: 0.0010
+2022-01-08 19:22:54.366 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:22:59.044 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:23:03.841 | INFO     | __main__:train:35 - loss: 0.0020
+2022-01-08 19:23:08.474 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:23:13.120 | INFO     | __main__:train:35 - loss: 0.0065
+2022-01-08 19:23:17.765 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:23:22.420 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:23:27.074 | INFO     | __main__:train:35 - loss: 0.0067
+2022-01-08 19:23:31.740 | INFO     | __main__:train:35 - loss: 0.0065
+2022-01-08 19:23:36.407 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:23:41.188 | INFO     | __main__:train:35 - loss: 0.0002
+2022-01-08 19:23:45.868 | INFO     | __main__:train:35 - loss: 0.0010
+2022-01-08 19:23:50.552 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:23:55.319 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:24:00.037 | INFO     | __main__:train:35 - loss: 0.0007
+2022-01-08 19:24:04.735 | INFO     | __main__:train:35 - loss: 0.0855
+2022-01-08 19:24:09.443 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:24:14.144 | INFO     | __main__:train:35 - loss: 0.0026
+2022-01-08 19:24:18.824 | INFO     | __main__:train:35 - loss: 0.0076
+2022-01-08 19:24:23.522 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:24:28.210 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:24:32.889 | INFO     | __main__:train:35 - loss: 0.0019
+2022-01-08 19:24:37.556 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:24:42.318 | INFO     | __main__:train:35 - loss: 0.0002
+2022-01-08 19:24:47.009 | INFO     | __main__:train:35 - loss: 0.0007
+2022-01-08 19:24:51.709 | INFO     | __main__:train:35 - loss: 0.0001
+2022-01-08 19:26:13.318 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 19:26:17.558 | INFO     | __main__:train:35 - loss: 1.3987
+2022-01-08 19:26:21.115 | INFO     | __main__:train:41 - higher corrcoef: 0.5651 in batch: 5, save model
+2022-01-08 19:26:22.330 | INFO     | __main__:train:35 - loss: 0.3871
+2022-01-08 19:26:25.715 | INFO     | __main__:train:41 - higher corrcoef: 0.6192 in batch: 10, save model
+2022-01-08 19:26:26.870 | INFO     | __main__:train:35 - loss: 0.2472
+2022-01-08 19:26:31.606 | INFO     | __main__:train:35 - loss: 0.1079
+2022-01-08 19:26:35.108 | INFO     | __main__:train:41 - higher corrcoef: 0.6203 in batch: 20, save model
+2022-01-08 19:26:36.248 | INFO     | __main__:train:35 - loss: 0.0364
+2022-01-08 19:26:39.708 | INFO     | __main__:train:41 - higher corrcoef: 0.6275 in batch: 25, save model
+2022-01-08 19:26:40.905 | INFO     | __main__:train:35 - loss: 0.2533
+2022-01-08 19:26:44.386 | INFO     | __main__:train:41 - higher corrcoef: 0.6322 in batch: 30, save model
+2022-01-08 19:26:45.545 | INFO     | __main__:train:35 - loss: 0.0224
+2022-01-08 19:26:48.967 | INFO     | __main__:train:41 - higher corrcoef: 0.6361 in batch: 35, save model
+2022-01-08 19:26:50.108 | INFO     | __main__:train:35 - loss: 0.0715
+2022-01-08 19:26:53.524 | INFO     | __main__:train:41 - higher corrcoef: 0.6396 in batch: 40, save model
+2022-01-08 19:26:54.669 | INFO     | __main__:train:35 - loss: 0.0109
+2022-01-08 19:26:58.082 | INFO     | __main__:train:41 - higher corrcoef: 0.6425 in batch: 45, save model
+2022-01-08 19:26:59.216 | INFO     | __main__:train:35 - loss: 0.0377
+2022-01-08 19:27:02.643 | INFO     | __main__:train:41 - higher corrcoef: 0.6447 in batch: 50, save model
+2022-01-08 19:27:03.788 | INFO     | __main__:train:35 - loss: 0.0090
+2022-01-08 19:27:07.224 | INFO     | __main__:train:41 - higher corrcoef: 0.6473 in batch: 55, save model
+2022-01-08 19:27:08.360 | INFO     | __main__:train:35 - loss: 0.0416
+2022-01-08 19:27:11.781 | INFO     | __main__:train:41 - higher corrcoef: 0.6492 in batch: 60, save model
+2022-01-08 19:27:12.928 | INFO     | __main__:train:35 - loss: 0.0191
+2022-01-08 19:27:16.340 | INFO     | __main__:train:41 - higher corrcoef: 0.6517 in batch: 65, save model
+2022-01-08 19:27:17.477 | INFO     | __main__:train:35 - loss: 0.0127
+2022-01-08 19:27:20.909 | INFO     | __main__:train:41 - higher corrcoef: 0.6535 in batch: 70, save model
+2022-01-08 19:27:22.062 | INFO     | __main__:train:35 - loss: 0.0201
+2022-01-08 19:27:26.643 | INFO     | __main__:train:35 - loss: 0.0107
+2022-01-08 19:27:31.226 | INFO     | __main__:train:35 - loss: 0.0064
+2022-01-08 19:27:34.676 | INFO     | __main__:train:41 - higher corrcoef: 0.6539 in batch: 85, save model
+2022-01-08 19:27:35.835 | INFO     | __main__:train:35 - loss: 0.0039
+2022-01-08 19:27:39.344 | INFO     | __main__:train:41 - higher corrcoef: 0.6549 in batch: 90, save model
+2022-01-08 19:27:40.511 | INFO     | __main__:train:35 - loss: 0.0140
+2022-01-08 19:27:43.991 | INFO     | __main__:train:41 - higher corrcoef: 0.6560 in batch: 95, save model
+2022-01-08 19:27:45.167 | INFO     | __main__:train:35 - loss: 0.0115
+2022-01-08 19:27:48.656 | INFO     | __main__:train:41 - higher corrcoef: 0.6574 in batch: 100, save model
+2022-01-08 19:27:49.824 | INFO     | __main__:train:35 - loss: 0.0064
+2022-01-08 19:27:53.323 | INFO     | __main__:train:41 - higher corrcoef: 0.6585 in batch: 105, save model
+2022-01-08 19:27:54.478 | INFO     | __main__:train:35 - loss: 0.0052
+2022-01-08 19:27:57.983 | INFO     | __main__:train:41 - higher corrcoef: 0.6594 in batch: 110, save model
+2022-01-08 19:27:59.171 | INFO     | __main__:train:35 - loss: 0.0040
+2022-01-08 19:28:02.677 | INFO     | __main__:train:41 - higher corrcoef: 0.6610 in batch: 115, save model
+2022-01-08 19:28:03.845 | INFO     | __main__:train:35 - loss: 0.0075
+2022-01-08 19:28:07.332 | INFO     | __main__:train:41 - higher corrcoef: 0.6621 in batch: 120, save model
+2022-01-08 19:28:08.497 | INFO     | __main__:train:35 - loss: 0.0058
+2022-01-08 19:28:11.997 | INFO     | __main__:train:41 - higher corrcoef: 0.6635 in batch: 125, save model
+2022-01-08 19:28:13.181 | INFO     | __main__:train:35 - loss: 0.0057
+2022-01-08 19:28:16.709 | INFO     | __main__:train:41 - higher corrcoef: 0.6647 in batch: 130, save model
+2022-01-08 19:28:17.883 | INFO     | __main__:train:35 - loss: 0.0056
+2022-01-08 19:28:21.412 | INFO     | __main__:train:41 - higher corrcoef: 0.6657 in batch: 135, save model
+2022-01-08 19:28:22.584 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:28:27.283 | INFO     | __main__:train:35 - loss: 0.0082
+2022-01-08 19:28:32.021 | INFO     | __main__:train:35 - loss: 0.0156
+2022-01-08 19:28:36.762 | INFO     | __main__:train:35 - loss: 0.0029
+2022-01-08 19:28:41.558 | INFO     | __main__:train:35 - loss: 0.0026
+2022-01-08 19:28:46.300 | INFO     | __main__:train:35 - loss: 0.0022
+2022-01-08 19:28:51.046 | INFO     | __main__:train:35 - loss: 0.0023
+2022-01-08 19:28:55.805 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:29:00.544 | INFO     | __main__:train:35 - loss: 0.0029
+2022-01-08 19:29:05.309 | INFO     | __main__:train:35 - loss: 0.0061
+2022-01-08 19:29:08.875 | INFO     | __main__:train:41 - higher corrcoef: 0.6662 in batch: 185, save model
+2022-01-08 19:29:10.073 | INFO     | __main__:train:35 - loss: 0.0028
+2022-01-08 19:29:13.632 | INFO     | __main__:train:41 - higher corrcoef: 0.6677 in batch: 190, save model
+2022-01-08 19:29:14.829 | INFO     | __main__:train:35 - loss: 0.0148
+2022-01-08 19:29:19.564 | INFO     | __main__:train:35 - loss: 0.0804
+2022-01-08 19:29:24.319 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:29:27.876 | INFO     | __main__:train:41 - higher corrcoef: 0.6678 in batch: 205, save model
+2022-01-08 19:29:29.070 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:29:32.644 | INFO     | __main__:train:41 - higher corrcoef: 0.6681 in batch: 210, save model
+2022-01-08 19:29:33.845 | INFO     | __main__:train:35 - loss: 0.1431
+2022-01-08 19:29:37.415 | INFO     | __main__:train:41 - higher corrcoef: 0.6689 in batch: 215, save model
+2022-01-08 19:29:38.603 | INFO     | __main__:train:35 - loss: 0.0020
+2022-01-08 19:29:42.250 | INFO     | __main__:train:41 - higher corrcoef: 0.6718 in batch: 220, save model
+2022-01-08 19:29:43.445 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:29:47.030 | INFO     | __main__:train:41 - higher corrcoef: 0.6728 in batch: 225, save model
+2022-01-08 19:29:48.241 | INFO     | __main__:train:35 - loss: 0.0016
+2022-01-08 19:29:51.822 | INFO     | __main__:train:41 - higher corrcoef: 0.6730 in batch: 230, save model
+2022-01-08 19:29:53.013 | INFO     | __main__:train:35 - loss: 0.0014
+2022-01-08 19:29:57.785 | INFO     | __main__:train:35 - loss: 0.0116
+2022-01-08 19:30:02.539 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:30:07.326 | INFO     | __main__:train:35 - loss: 0.0020
+2022-01-08 19:30:12.064 | INFO     | __main__:train:35 - loss: 0.0022
+2022-01-08 19:30:16.847 | INFO     | __main__:train:35 - loss: 0.0051
+2022-01-08 19:30:21.622 | INFO     | __main__:train:35 - loss: 0.0060
+2022-01-08 19:30:26.389 | INFO     | __main__:train:35 - loss: 0.0007
+2022-01-08 19:30:31.140 | INFO     | __main__:train:35 - loss: 0.0040
+2022-01-08 19:30:35.911 | INFO     | __main__:train:35 - loss: 0.0011
+2022-01-08 19:30:40.685 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:30:44.258 | INFO     | __main__:train:41 - higher corrcoef: 0.6731 in batch: 285, save model
+2022-01-08 19:30:45.455 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-08 19:30:50.230 | INFO     | __main__:train:35 - loss: 0.0021
+2022-01-08 19:30:54.982 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:30:59.816 | INFO     | __main__:train:35 - loss: 0.0016
+2022-01-08 19:31:04.579 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:31:09.336 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:31:14.099 | INFO     | __main__:train:35 - loss: 0.0057
+2022-01-08 19:31:18.860 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:46:00.152 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 19:46:04.334 | INFO     | __main__:train:35 - loss: 0.1625
+2022-01-08 19:46:07.733 | INFO     | __main__:train:41 - higher corrcoef: 0.5996 in batch: 5, save model
+2022-01-08 19:46:08.856 | INFO     | __main__:train:35 - loss: 0.0782
+2022-01-08 19:46:12.189 | INFO     | __main__:train:41 - higher corrcoef: 0.6125 in batch: 10, save model
+2022-01-08 19:46:13.330 | INFO     | __main__:train:35 - loss: 0.0420
+2022-01-08 19:46:16.715 | INFO     | __main__:train:41 - higher corrcoef: 0.6292 in batch: 15, save model
+2022-01-08 19:46:17.840 | INFO     | __main__:train:35 - loss: 0.0232
+2022-01-08 19:46:21.537 | INFO     | __main__:train:41 - higher corrcoef: 0.6294 in batch: 20, save model
+2022-01-08 19:46:22.765 | INFO     | __main__:train:35 - loss: 0.0175
+2022-01-08 19:46:26.200 | INFO     | __main__:train:41 - higher corrcoef: 0.6327 in batch: 25, save model
+2022-01-08 19:46:27.323 | INFO     | __main__:train:35 - loss: 0.0083
+2022-01-08 19:46:30.707 | INFO     | __main__:train:41 - higher corrcoef: 0.6359 in batch: 30, save model
+2022-01-08 19:46:31.856 | INFO     | __main__:train:35 - loss: 0.0058
+2022-01-08 19:46:35.229 | INFO     | __main__:train:41 - higher corrcoef: 0.6399 in batch: 35, save model
+2022-01-08 19:46:36.377 | INFO     | __main__:train:35 - loss: 0.0040
+2022-01-08 19:46:39.760 | INFO     | __main__:train:41 - higher corrcoef: 0.6465 in batch: 40, save model
+2022-01-08 19:46:40.921 | INFO     | __main__:train:35 - loss: 0.0023
+2022-01-08 19:46:44.291 | INFO     | __main__:train:41 - higher corrcoef: 0.6519 in batch: 45, save model
+2022-01-08 19:46:45.444 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:46:48.845 | INFO     | __main__:train:41 - higher corrcoef: 0.6552 in batch: 50, save model
+2022-01-08 19:46:50.007 | INFO     | __main__:train:35 - loss: 0.0286
+2022-01-08 19:46:53.478 | INFO     | __main__:train:41 - higher corrcoef: 0.6577 in batch: 55, save model
+2022-01-08 19:46:54.618 | INFO     | __main__:train:35 - loss: 0.0058
+2022-01-08 19:46:58.013 | INFO     | __main__:train:41 - higher corrcoef: 0.6605 in batch: 60, save model
+2022-01-08 19:46:59.163 | INFO     | __main__:train:35 - loss: 0.0073
+2022-01-08 19:47:02.579 | INFO     | __main__:train:41 - higher corrcoef: 0.6630 in batch: 65, save model
+2022-01-08 19:47:03.718 | INFO     | __main__:train:35 - loss: 0.0125
+2022-01-08 19:47:07.171 | INFO     | __main__:train:41 - higher corrcoef: 0.6648 in batch: 70, save model
+2022-01-08 19:47:08.328 | INFO     | __main__:train:35 - loss: 0.0045
+2022-01-08 19:47:11.745 | INFO     | __main__:train:41 - higher corrcoef: 0.6682 in batch: 75, save model
+2022-01-08 19:47:12.912 | INFO     | __main__:train:35 - loss: 0.0040
+2022-01-08 19:47:16.311 | INFO     | __main__:train:41 - higher corrcoef: 0.6696 in batch: 80, save model
+2022-01-08 19:47:17.455 | INFO     | __main__:train:35 - loss: 0.0016
+2022-01-08 19:47:20.865 | INFO     | __main__:train:41 - higher corrcoef: 0.6699 in batch: 85, save model
+2022-01-08 19:47:22.048 | INFO     | __main__:train:35 - loss: 0.0013
+2022-01-08 19:47:26.634 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:47:31.185 | INFO     | __main__:train:35 - loss: 0.0022
+2022-01-08 19:47:34.615 | INFO     | __main__:train:41 - higher corrcoef: 0.6699 in batch: 100, save model
+2022-01-08 19:47:35.766 | INFO     | __main__:train:35 - loss: 0.0013
+2022-01-08 19:47:39.239 | INFO     | __main__:train:41 - higher corrcoef: 0.6711 in batch: 105, save model
+2022-01-08 19:47:40.392 | INFO     | __main__:train:35 - loss: 0.0011
+2022-01-08 19:47:43.806 | INFO     | __main__:train:41 - higher corrcoef: 0.6716 in batch: 110, save model
+2022-01-08 19:47:44.966 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:47:48.384 | INFO     | __main__:train:41 - higher corrcoef: 0.6727 in batch: 115, save model
+2022-01-08 19:47:49.530 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:47:52.993 | INFO     | __main__:train:41 - higher corrcoef: 0.6743 in batch: 120, save model
+2022-01-08 19:47:54.146 | INFO     | __main__:train:35 - loss: 0.0012
+2022-01-08 19:47:57.573 | INFO     | __main__:train:41 - higher corrcoef: 0.6755 in batch: 125, save model
+2022-01-08 19:47:58.718 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:48:02.139 | INFO     | __main__:train:41 - higher corrcoef: 0.6762 in batch: 130, save model
+2022-01-08 19:48:03.290 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:48:06.734 | INFO     | __main__:train:41 - higher corrcoef: 0.6765 in batch: 135, save model
+2022-01-08 19:48:07.874 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:48:12.455 | INFO     | __main__:train:35 - loss: 0.0008
+2022-01-08 19:48:17.033 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:48:21.634 | INFO     | __main__:train:35 - loss: 0.0051
+2022-01-08 19:48:26.203 | INFO     | __main__:train:35 - loss: 0.0038
+2022-01-08 19:48:30.779 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:48:35.361 | INFO     | __main__:train:35 - loss: 0.0084
+2022-01-08 19:48:40.021 | INFO     | __main__:train:35 - loss: 0.0016
+2022-01-08 19:48:44.622 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:48:49.221 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:48:53.882 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:48:58.464 | INFO     | __main__:train:35 - loss: 0.0011
+2022-01-08 19:49:03.065 | INFO     | __main__:train:35 - loss: 0.0011
+2022-01-08 19:49:07.694 | INFO     | __main__:train:35 - loss: 0.0017
+2022-01-08 19:49:12.293 | INFO     | __main__:train:35 - loss: 0.0014
+2022-01-08 19:49:16.884 | INFO     | __main__:train:35 - loss: 0.0024
+2022-01-08 19:49:21.481 | INFO     | __main__:train:35 - loss: 0.0175
+2022-01-08 19:49:26.094 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:49:30.705 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:49:35.318 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:49:40.005 | INFO     | __main__:train:35 - loss: 0.0002
+2022-01-08 19:49:44.627 | INFO     | __main__:train:35 - loss: 0.0006
+2022-01-08 19:49:48.081 | INFO     | __main__:train:41 - higher corrcoef: 0.6770 in batch: 245, save model
+2022-01-08 19:49:49.248 | INFO     | __main__:train:35 - loss: 0.0007
+2022-01-08 19:49:52.772 | INFO     | __main__:train:41 - higher corrcoef: 0.6806 in batch: 250, save model
+2022-01-08 19:49:53.954 | INFO     | __main__:train:35 - loss: 0.0065
+2022-01-08 19:49:58.587 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:50:03.240 | INFO     | __main__:train:35 - loss: 0.0014
+2022-01-08 19:50:07.945 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:50:12.579 | INFO     | __main__:train:35 - loss: 0.0005
+2022-01-08 19:50:17.218 | INFO     | __main__:train:35 - loss: 0.0002
+2022-01-08 19:50:21.907 | INFO     | __main__:train:35 - loss: 0.0015
+2022-01-08 19:50:26.559 | INFO     | __main__:train:35 - loss: 0.0004
+2022-01-08 19:50:31.218 | INFO     | __main__:train:35 - loss: 0.0009
+2022-01-08 19:50:35.851 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:50:40.595 | INFO     | __main__:train:35 - loss: 0.0018
+2022-01-08 19:50:45.245 | INFO     | __main__:train:35 - loss: 0.0013
+2022-01-08 19:50:49.896 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:50:54.592 | INFO     | __main__:train:35 - loss: 0.0003
+2022-01-08 19:50:59.249 | INFO     | __main__:train:35 - loss: 0.0002
+2022-01-08 19:59:04.741 | INFO     | __main__:<module>:114 - run run run
+2022-01-08 19:59:04.741 | INFO     | __main__:<module>:115 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save')
+2022-02-19 16:20:39.411 | INFO     | __main__:<module>:122 - run run run
+2022-02-19 16:20:39.418 | INFO     | __main__:<module>:123 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 16:22:57.065 | INFO     | __main__:<module>:123 - run run run
+2022-02-19 16:22:57.065 | INFO     | __main__:<module>:124 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 16:24:20.653 | INFO     | __main__:<module>:125 - run run run
+2022-02-19 16:24:20.654 | INFO     | __main__:<module>:126 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 16:24:30.461 | INFO     | __main__:<module>:123 - run run run
+2022-02-19 16:24:30.461 | INFO     | __main__:<module>:124 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 16:25:31.598 | INFO     | __main__:<module>:123 - run run run
+2022-02-19 16:25:31.598 | INFO     | __main__:<module>:124 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 16:25:35.532 | INFO     | __main__:train:37 - loss: 0.2235
+2022-02-19 16:25:38.788 | INFO     | __main__:train:43 - higher corrcoef: 0.6059 in batch: 5, save model
+2022-02-19 16:25:39.928 | INFO     | __main__:train:37 - loss: 0.0933
+2022-02-19 16:25:43.170 | INFO     | __main__:train:43 - higher corrcoef: 0.6179 in batch: 10, save model
+2022-02-19 16:25:44.335 | INFO     | __main__:train:37 - loss: 0.0184
+2022-02-19 16:25:47.595 | INFO     | __main__:train:43 - higher corrcoef: 0.6219 in batch: 15, save model
+2022-02-19 16:25:48.743 | INFO     | __main__:train:37 - loss: 0.0502
+2022-02-19 16:25:52.004 | INFO     | __main__:train:43 - higher corrcoef: 0.6222 in batch: 20, save model
+2022-02-19 16:25:53.170 | INFO     | __main__:train:37 - loss: 0.0523
+2022-02-19 16:25:56.420 | INFO     | __main__:train:43 - higher corrcoef: 0.6233 in batch: 25, save model
+2022-02-19 16:25:57.564 | INFO     | __main__:train:37 - loss: 0.0064
+2022-02-19 16:26:01.975 | INFO     | __main__:train:37 - loss: 0.0062
+2022-02-19 16:26:06.411 | INFO     | __main__:train:37 - loss: 0.0139
+2022-02-19 16:26:09.687 | INFO     | __main__:train:43 - higher corrcoef: 0.6306 in batch: 40, save model
+2022-02-19 16:26:10.842 | INFO     | __main__:train:37 - loss: 0.0120
+2022-02-19 16:26:14.114 | INFO     | __main__:train:43 - higher corrcoef: 0.6445 in batch: 45, save model
+2022-02-19 16:26:15.283 | INFO     | __main__:train:37 - loss: 0.0012
+2022-02-19 16:26:18.567 | INFO     | __main__:train:43 - higher corrcoef: 0.6535 in batch: 50, save model
+2022-02-19 16:26:19.741 | INFO     | __main__:train:37 - loss: 0.0026
+2022-02-19 16:26:23.004 | INFO     | __main__:train:43 - higher corrcoef: 0.6564 in batch: 55, save model
+2022-02-19 16:26:24.163 | INFO     | __main__:train:37 - loss: 0.0016
+2022-02-19 16:26:28.551 | INFO     | __main__:train:37 - loss: 0.0015
+2022-02-19 16:26:32.982 | INFO     | __main__:train:37 - loss: 0.0013
+2022-02-19 16:26:37.402 | INFO     | __main__:train:37 - loss: 0.0014
+2022-02-19 16:26:40.667 | INFO     | __main__:train:43 - higher corrcoef: 0.6589 in batch: 75, save model
+2022-02-19 16:26:41.816 | INFO     | __main__:train:37 - loss: 0.0047
+2022-02-19 16:26:45.104 | INFO     | __main__:train:43 - higher corrcoef: 0.6652 in batch: 80, save model
+2022-02-19 16:26:46.280 | INFO     | __main__:train:37 - loss: 0.0005
+2022-02-19 16:26:49.533 | INFO     | __main__:train:43 - higher corrcoef: 0.6678 in batch: 85, save model
+2022-02-19 16:26:50.699 | INFO     | __main__:train:37 - loss: 0.0734
+2022-02-19 16:26:53.965 | INFO     | __main__:train:43 - higher corrcoef: 0.6687 in batch: 90, save model
+2022-02-19 16:26:55.122 | INFO     | __main__:train:37 - loss: 0.0408
+2022-02-19 16:26:59.534 | INFO     | __main__:train:37 - loss: 0.0027
+2022-02-19 16:27:04.003 | INFO     | __main__:train:37 - loss: 0.0009
+2022-02-19 16:27:08.439 | INFO     | __main__:train:37 - loss: 0.0007
+2022-02-19 16:27:12.862 | INFO     | __main__:train:37 - loss: 0.0822
+2022-02-19 16:27:17.303 | INFO     | __main__:train:37 - loss: 0.0012
+2022-02-19 16:27:20.580 | INFO     | __main__:train:43 - higher corrcoef: 0.6726 in batch: 120, save model
+2022-02-19 16:27:21.748 | INFO     | __main__:train:37 - loss: 0.0013
+2022-02-19 16:27:25.020 | INFO     | __main__:train:43 - higher corrcoef: 0.6745 in batch: 125, save model
+2022-02-19 16:27:26.181 | INFO     | __main__:train:37 - loss: 0.0040
+2022-02-19 16:27:29.437 | INFO     | __main__:train:43 - higher corrcoef: 0.6756 in batch: 130, save model
+2022-02-19 16:27:30.593 | INFO     | __main__:train:37 - loss: 0.0007
+2022-02-19 16:27:33.888 | INFO     | __main__:train:43 - higher corrcoef: 0.6765 in batch: 135, save model
+2022-02-19 16:27:35.045 | INFO     | __main__:train:37 - loss: 0.0008
+2022-02-19 16:27:38.315 | INFO     | __main__:train:43 - higher corrcoef: 0.6773 in batch: 140, save model
+2022-02-19 16:27:39.470 | INFO     | __main__:train:37 - loss: 0.0830
+2022-02-19 16:27:42.724 | INFO     | __main__:train:43 - higher corrcoef: 0.6778 in batch: 145, save model
+2022-02-19 16:27:43.876 | INFO     | __main__:train:37 - loss: 0.0370
+2022-02-19 16:27:47.182 | INFO     | __main__:train:43 - higher corrcoef: 0.6798 in batch: 150, save model
+2022-02-19 16:27:48.358 | INFO     | __main__:train:37 - loss: 0.0012
+2022-02-19 16:27:51.649 | INFO     | __main__:train:43 - higher corrcoef: 0.6823 in batch: 155, save model
+2022-02-19 16:27:52.828 | INFO     | __main__:train:37 - loss: 0.0007
+2022-02-19 16:27:56.109 | INFO     | __main__:train:43 - higher corrcoef: 0.6823 in batch: 160, save model
+2022-02-19 16:27:57.358 | INFO     | __main__:train:37 - loss: 0.0012
+2022-02-19 16:28:02.141 | INFO     | __main__:train:37 - loss: 0.0008
+2022-02-19 16:28:05.401 | INFO     | __main__:train:43 - higher corrcoef: 0.6836 in batch: 170, save model
+2022-02-19 16:28:06.584 | INFO     | __main__:train:37 - loss: 0.0088
+2022-02-19 16:28:11.039 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-19 16:28:15.463 | INFO     | __main__:train:37 - loss: 0.0093
+2022-02-19 16:28:19.903 | INFO     | __main__:train:37 - loss: 0.0006
+2022-02-19 16:28:24.385 | INFO     | __main__:train:37 - loss: 0.0008
+2022-02-19 16:28:28.882 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-19 16:28:33.373 | INFO     | __main__:train:37 - loss: 0.0078
+2022-02-19 16:28:37.839 | INFO     | __main__:train:37 - loss: 0.0002
+2022-02-19 16:28:42.407 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-19 16:28:46.896 | INFO     | __main__:train:37 - loss: 0.0001
+2022-02-19 16:28:51.407 | INFO     | __main__:train:37 - loss: 0.0008
+2022-02-19 16:28:55.935 | INFO     | __main__:train:37 - loss: 0.0006
+2022-02-19 16:29:00.754 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-19 16:29:05.351 | INFO     | __main__:train:37 - loss: 0.0002
+2022-02-19 16:29:09.879 | INFO     | __main__:train:37 - loss: 0.0010
+2022-02-19 16:29:14.286 | INFO     | __main__:train:37 - loss: 0.0002
+2022-02-19 16:29:18.717 | INFO     | __main__:train:37 - loss: 0.0024
+2022-02-19 16:29:23.140 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-19 16:29:27.555 | INFO     | __main__:train:37 - loss: 0.0005
+2022-02-19 16:29:31.997 | INFO     | __main__:train:37 - loss: 0.0839
+2022-02-19 16:29:36.452 | INFO     | __main__:train:37 - loss: 0.0018
+2022-02-19 16:29:40.993 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-19 16:29:45.834 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-19 16:29:50.280 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-19 16:29:54.704 | INFO     | __main__:train:37 - loss: 0.0274
+2022-02-19 16:29:59.134 | INFO     | __main__:train:37 - loss: 0.0002
+2022-02-19 16:30:03.580 | INFO     | __main__:train:37 - loss: 0.0005
+2022-02-19 16:30:07.993 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-19 16:30:12.432 | INFO     | __main__:train:37 - loss: 0.0006
+2022-02-19 16:30:15.769 | INFO     | __main__:train:43 - higher corrcoef: 0.6836 in batch: 315, save model
+2022-02-19 16:30:16.939 | INFO     | __main__:train:37 - loss: 0.0014
+2022-02-19 16:30:21.397 | INFO     | __main__:train:37 - loss: 0.0016
+2022-02-19 16:30:24.706 | INFO     | __main__:train:43 - higher corrcoef: 0.6887 in batch: 325, save model
+2022-02-19 16:47:08.264 | INFO     | __main__:<module>:123 - run run run
+2022-02-19 16:47:08.264 | INFO     | __main__:<module>:124 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 16:47:12.229 | INFO     | __main__:train:37 - loss: 0.2311
+2022-02-19 16:51:34.410 | INFO     | __main__:<module>:123 - run run run
+2022-02-19 16:51:34.410 | INFO     | __main__:<module>:124 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 16:51:38.379 | INFO     | __main__:train:37 - loss: 0.3315
+2022-02-19 16:52:20.657 | INFO     | __main__:<module>:123 - run run run
+2022-02-19 16:52:20.657 | INFO     | __main__:<module>:124 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 16:52:24.638 | INFO     | __main__:train:37 - loss: 0.3328
+2022-02-19 16:52:59.783 | INFO     | __main__:<module>:123 - run run run
+2022-02-19 16:52:59.783 | INFO     | __main__:<module>:124 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 18:13:49.986 | INFO     | __main__:<module>:124 - run run run
+2022-02-19 18:13:49.987 | INFO     | __main__:<module>:125 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 18:13:56.998 | INFO     | __main__:train:37 - loss: 0.2332
+2022-02-19 18:17:36.292 | INFO     | __main__:<module>:124 - run run run
+2022-02-19 18:17:36.292 | INFO     | __main__:<module>:125 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-19 18:17:42.186 | INFO     | __main__:train:37 - loss: 0.2445
+2022-02-20 16:50:24.565 | INFO     | __main__:<module>:146 - run run run
+2022-02-20 16:50:24.565 | INFO     | __main__:<module>:147 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 16:51:54.335 | INFO     | __main__:<module>:146 - run run run
+2022-02-20 16:51:54.335 | INFO     | __main__:<module>:147 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 16:52:42.716 | INFO     | __main__:<module>:146 - run run run
+2022-02-20 16:52:42.716 | INFO     | __main__:<module>:147 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 16:53:32.990 | INFO     | __main__:<module>:146 - run run run
+2022-02-20 16:53:32.990 | INFO     | __main__:<module>:147 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 16:55:48.889 | INFO     | __main__:<module>:146 - run run run
+2022-02-20 16:55:48.889 | INFO     | __main__:<module>:147 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 16:56:02.601 | INFO     | __main__:<module>:146 - run run run
+2022-02-20 16:56:02.601 | INFO     | __main__:<module>:147 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 16:58:07.044 | INFO     | __main__:<module>:143 - run run run
+2022-02-20 16:58:07.044 | INFO     | __main__:<module>:144 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 16:58:53.121 | INFO     | __main__:<module>:147 - run run run
+2022-02-20 16:58:53.121 | INFO     | __main__:<module>:148 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 16:59:15.318 | INFO     | __main__:<module>:147 - run run run
+2022-02-20 16:59:15.318 | INFO     | __main__:<module>:148 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:00:28.010 | INFO     | __main__:<module>:147 - run run run
+2022-02-20 17:00:28.011 | INFO     | __main__:<module>:148 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:02:49.969 | INFO     | __main__:<module>:147 - run run run
+2022-02-20 17:02:49.969 | INFO     | __main__:<module>:148 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:03:36.815 | INFO     | __main__:<module>:146 - run run run
+2022-02-20 17:03:36.815 | INFO     | __main__:<module>:147 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:03:59.075 | INFO     | __main__:<module>:147 - run run run
+2022-02-20 17:03:59.075 | INFO     | __main__:<module>:148 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:04:35.020 | INFO     | __main__:<module>:148 - run run run
+2022-02-20 17:04:35.020 | INFO     | __main__:<module>:149 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:08:02.459 | INFO     | __main__:<module>:148 - run run run
+2022-02-20 17:08:02.459 | INFO     | __main__:<module>:149 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:08:24.399 | INFO     | __main__:<module>:148 - run run run
+2022-02-20 17:08:24.400 | INFO     | __main__:<module>:149 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:14:11.205 | INFO     | __main__:<module>:149 - run run run
+2022-02-20 17:14:11.206 | INFO     | __main__:<module>:150 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:20:36.633 | INFO     | __main__:<module>:149 - run run run
+2022-02-20 17:20:36.633 | INFO     | __main__:<module>:150 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:20:41.447 | INFO     | __main__:train:58 - loss: 0.1388
+2022-02-20 17:20:58.779 | INFO     | __main__:<module>:148 - run run run
+2022-02-20 17:20:58.779 | INFO     | __main__:<module>:149 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:21:03.641 | INFO     | __main__:train:57 - loss: 0.0786
+2022-02-20 17:21:06.984 | INFO     | __main__:train:63 - higher corrcoef: 0.6133 in batch: 5, save model
+2022-02-20 17:21:08.262 | INFO     | __main__:train:57 - loss: 0.0453
+2022-02-20 17:23:07.510 | INFO     | __main__:<module>:148 - run run run
+2022-02-20 17:23:07.510 | INFO     | __main__:<module>:149 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=50, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:23:12.361 | INFO     | __main__:train:57 - loss: 0.1541
+2022-02-20 17:23:15.309 | INFO     | __main__:train:63 - higher corrcoef: 0.6196 in batch: 5, save model
+2022-02-20 17:23:16.523 | INFO     | __main__:train:57 - loss: 0.0959
+2022-02-20 17:23:19.408 | INFO     | __main__:train:63 - higher corrcoef: 0.6340 in batch: 10, save model
+2022-02-20 17:24:50.630 | INFO     | __main__:<module>:148 - run run run
+2022-02-20 17:24:50.630 | INFO     | __main__:<module>:149 - Namespace(batch_size=32, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:24:55.502 | INFO     | __main__:train:57 - loss: 0.1795
+2022-02-20 17:24:58.879 | INFO     | __main__:train:63 - higher corrcoef: 0.6136 in batch: 5, save model
+2022-02-20 17:25:00.115 | INFO     | __main__:train:57 - loss: 0.0316
+2022-02-20 17:25:03.720 | INFO     | __main__:train:63 - higher corrcoef: 0.6151 in batch: 10, save model
+2022-02-20 17:25:38.667 | INFO     | __main__:<module>:148 - run run run
+2022-02-20 17:25:38.667 | INFO     | __main__:<module>:149 - Namespace(batch_size=16, data_path='./data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', save_path='./model_save', un_supervise=True)
+2022-02-20 17:26:48.761 | INFO     | __main__:<module>:150 - run run run
+2022-02-20 17:26:48.761 | INFO     | __main__:<module>:151 - Namespace(batch_size=16, data_path='./data/STS-B/', device='cpu', dropout=0.15, dup_rate=0.15, lr=3e-05, max_length=50, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/bert_chinese', q_size=64, save_path='./model_save', un_supervise=True)
+2022-02-20 17:26:53.126 | INFO     | __main__:train:57 - loss: 0.0723
+2022-02-20 17:26:56.675 | INFO     | __main__:train:63 - higher corrcoef: 0.6244 in batch: 5, save model
+2022-02-20 17:26:57.402 | INFO     | __main__:train:57 - loss: 0.0183
+2022-02-20 17:27:01.770 | INFO     | __main__:train:57 - loss: 0.0260
+2022-02-20 17:27:06.254 | INFO     | __main__:train:57 - loss: 0.0503
+2022-02-20 17:27:09.776 | INFO     | __main__:train:63 - higher corrcoef: 0.6252 in batch: 20, save model
+2022-02-20 17:27:10.774 | INFO     | __main__:train:57 - loss: 0.0078
+2022-02-20 17:27:14.336 | INFO     | __main__:train:63 - higher corrcoef: 0.6291 in batch: 25, save model
+2022-02-20 17:27:15.558 | INFO     | __main__:train:57 - loss: 0.0037
+2022-02-20 17:27:19.149 | INFO     | __main__:train:63 - higher corrcoef: 0.6296 in batch: 30, save model
+2022-02-20 17:27:20.295 | INFO     | __main__:train:57 - loss: 0.0109
+2022-02-20 17:27:25.318 | INFO     | __main__:train:57 - loss: 0.0186
+2022-02-20 17:27:28.854 | INFO     | __main__:train:63 - higher corrcoef: 0.6308 in batch: 40, save model
+2022-02-20 17:27:30.150 | INFO     | __main__:train:57 - loss: 0.0090
+2022-02-20 17:27:35.029 | INFO     | __main__:train:57 - loss: 0.0065
+2022-02-20 17:27:39.907 | INFO     | __main__:train:57 - loss: 0.0234
+2022-02-20 17:27:44.781 | INFO     | __main__:train:57 - loss: 0.0083
+2022-02-20 17:27:49.644 | INFO     | __main__:train:57 - loss: 0.0043
+2022-02-20 17:27:54.532 | INFO     | __main__:train:57 - loss: 0.0071
+2022-02-20 17:27:59.441 | INFO     | __main__:train:57 - loss: 0.0041
+2022-02-20 17:28:04.372 | INFO     | __main__:train:57 - loss: 0.0024
+2022-02-20 17:28:07.930 | INFO     | __main__:train:63 - higher corrcoef: 0.6357 in batch: 80, save model
+2022-02-20 17:28:09.243 | INFO     | __main__:train:57 - loss: 0.0057
+2022-02-20 17:28:12.819 | INFO     | __main__:train:63 - higher corrcoef: 0.6495 in batch: 85, save model
+2022-02-20 17:28:14.146 | INFO     | __main__:train:57 - loss: 0.0040
+2022-02-20 17:28:17.701 | INFO     | __main__:train:63 - higher corrcoef: 0.6508 in batch: 90, save model
+2022-02-20 17:28:19.023 | INFO     | __main__:train:57 - loss: 0.0031
+2022-02-20 17:28:23.945 | INFO     | __main__:train:57 - loss: 0.0037
+2022-02-20 17:28:28.870 | INFO     | __main__:train:57 - loss: 0.0022
+2022-02-20 17:28:33.767 | INFO     | __main__:train:57 - loss: 0.0044
+2022-02-20 17:28:37.357 | INFO     | __main__:train:63 - higher corrcoef: 0.6523 in batch: 110, save model
+2022-02-20 17:28:38.686 | INFO     | __main__:train:57 - loss: 0.0092
+2022-02-20 17:28:42.231 | INFO     | __main__:train:63 - higher corrcoef: 0.6706 in batch: 115, save model
+2022-02-20 17:28:43.559 | INFO     | __main__:train:57 - loss: 0.0024
+2022-02-20 17:28:47.106 | INFO     | __main__:train:63 - higher corrcoef: 0.6787 in batch: 120, save model
+2022-02-20 17:28:48.461 | INFO     | __main__:train:57 - loss: 0.0023
+2022-02-20 17:28:52.017 | INFO     | __main__:train:63 - higher corrcoef: 0.6806 in batch: 125, save model
+2022-02-20 17:28:53.370 | INFO     | __main__:train:57 - loss: 0.0014
+2022-02-20 17:28:56.934 | INFO     | __main__:train:63 - higher corrcoef: 0.6809 in batch: 130, save model
+2022-02-20 17:28:58.283 | INFO     | __main__:train:57 - loss: 0.0015
+2022-02-20 17:29:01.838 | INFO     | __main__:train:63 - higher corrcoef: 0.6810 in batch: 135, save model
+2022-02-20 17:29:03.168 | INFO     | __main__:train:57 - loss: 0.0019
+2022-02-20 17:29:08.065 | INFO     | __main__:train:57 - loss: 0.0290
+2022-02-20 17:29:12.958 | INFO     | __main__:train:57 - loss: 0.0044
+2022-02-20 17:29:17.856 | INFO     | __main__:train:57 - loss: 0.0053
+2022-02-20 17:29:22.768 | INFO     | __main__:train:57 - loss: 0.0725
+2022-02-20 17:29:27.677 | INFO     | __main__:train:57 - loss: 0.0023
+2022-02-20 17:29:32.579 | INFO     | __main__:train:57 - loss: 0.0418
+2022-02-20 17:29:37.471 | INFO     | __main__:train:57 - loss: 0.0044
+2022-02-20 17:29:42.349 | INFO     | __main__:train:57 - loss: 0.0014
+2022-02-20 17:29:47.253 | INFO     | __main__:train:57 - loss: 0.0050
+2022-02-20 17:29:52.318 | INFO     | __main__:train:57 - loss: 0.0024
+2022-02-20 17:29:57.612 | INFO     | __main__:train:57 - loss: 0.0047
+2022-02-20 17:30:01.527 | INFO     | __main__:train:63 - higher corrcoef: 0.6852 in batch: 195, save model
+2022-02-20 17:30:02.978 | INFO     | __main__:train:57 - loss: 0.0008
+2022-02-20 17:30:06.652 | INFO     | __main__:train:63 - higher corrcoef: 0.6891 in batch: 200, save model
+2022-02-20 17:30:08.061 | INFO     | __main__:train:57 - loss: 0.0028
+2022-02-20 17:30:11.611 | INFO     | __main__:train:63 - higher corrcoef: 0.6907 in batch: 205, save model
+2022-02-20 17:30:12.958 | INFO     | __main__:train:57 - loss: 0.0018
+2022-02-20 17:30:16.504 | INFO     | __main__:train:63 - higher corrcoef: 0.6909 in batch: 210, save model
+2022-02-20 17:30:17.856 | INFO     | __main__:train:57 - loss: 0.0015
+2022-02-20 17:30:21.406 | INFO     | __main__:train:63 - higher corrcoef: 0.6916 in batch: 215, save model
+2022-02-20 17:30:22.730 | INFO     | __main__:train:57 - loss: 0.0155
+2022-02-20 17:30:27.664 | INFO     | __main__:train:57 - loss: 0.0137
+2022-02-20 17:30:32.578 | INFO     | __main__:train:57 - loss: 0.0174
+2022-02-20 17:30:37.476 | INFO     | __main__:train:57 - loss: 0.0102
+2022-02-20 17:30:42.398 | INFO     | __main__:train:57 - loss: 0.0024
+2022-02-20 17:30:47.314 | INFO     | __main__:train:57 - loss: 0.0024
+2022-02-20 17:30:52.223 | INFO     | __main__:train:57 - loss: 0.0013
+2022-02-20 17:30:57.184 | INFO     | __main__:train:57 - loss: 0.0006
+2022-02-20 17:31:02.092 | INFO     | __main__:train:57 - loss: 0.0028
+2022-02-20 17:31:07.003 | INFO     | __main__:train:57 - loss: 0.0736
+2022-02-20 17:31:11.926 | INFO     | __main__:train:57 - loss: 0.0044
+2022-02-20 17:31:16.845 | INFO     | __main__:train:57 - loss: 0.0085
+2022-02-20 17:31:21.767 | INFO     | __main__:train:57 - loss: 0.0025
+2022-02-20 17:31:26.688 | INFO     | __main__:train:57 - loss: 0.0025
+2022-02-20 17:31:31.600 | INFO     | __main__:train:57 - loss: 0.0012
+2022-02-20 17:31:36.496 | INFO     | __main__:train:57 - loss: 0.0020
+2022-02-20 17:31:41.440 | INFO     | __main__:train:57 - loss: 0.0008
+2022-02-20 17:31:46.390 | INFO     | __main__:train:57 - loss: 0.0023
+2022-02-20 17:31:51.309 | INFO     | __main__:train:57 - loss: 0.0018
+2022-02-20 17:31:55.130 | INFO     | __main__:train:63 - higher corrcoef: 0.6928 in batch: 310, save model
+2022-02-20 17:31:56.507 | INFO     | __main__:train:57 - loss: 0.0121
+2022-02-20 17:32:01.748 | INFO     | __main__:train:57 - loss: 0.0035
+2022-02-20 17:32:06.813 | INFO     | __main__:train:57 - loss: 0.0070
+2022-02-20 17:32:11.678 | INFO     | __main__:train:57 - loss: 0.0009
+2022-02-20 17:32:16.557 | INFO     | __main__:train:57 - loss: 0.0006
+2022-02-20 17:32:20.166 | INFO     | __main__:train:63 - higher corrcoef: 0.6937 in batch: 335, save model
+2022-02-20 17:32:21.471 | INFO     | __main__:train:57 - loss: 0.0021
+2022-02-20 17:32:25.041 | INFO     | __main__:train:63 - higher corrcoef: 0.6970 in batch: 340, save model
+2022-02-20 17:32:26.350 | INFO     | __main__:train:57 - loss: 0.0004
+2022-02-20 17:32:31.221 | INFO     | __main__:train:57 - loss: 0.0013
+2022-02-20 17:32:36.102 | INFO     | __main__:train:57 - loss: 0.0173
+2022-02-20 17:32:40.974 | INFO     | __main__:train:57 - loss: 0.0012
+2022-02-20 17:32:45.856 | INFO     | __main__:train:57 - loss: 0.0010
+2022-02-20 17:32:50.755 | INFO     | __main__:train:57 - loss: 0.0013
+2022-02-20 17:32:55.643 | INFO     | __main__:train:57 - loss: 0.0048
+2022-02-20 17:33:00.517 | INFO     | __main__:train:57 - loss: 0.0040
+2022-02-20 17:33:05.408 | INFO     | __main__:train:57 - loss: 0.0852
+2022-02-20 17:33:10.293 | INFO     | __main__:train:57 - loss: 0.0006
+2022-02-20 17:33:15.270 | INFO     | __main__:train:57 - loss: 0.0026
+2022-02-20 17:33:20.163 | INFO     | __main__:train:57 - loss: 0.0176
+2022-02-20 17:33:25.054 | INFO     | __main__:train:57 - loss: 0.0016
+2022-02-20 17:33:29.974 | INFO     | __main__:train:57 - loss: 0.0098
+2022-02-20 17:33:34.858 | INFO     | __main__:train:57 - loss: 0.0023
+2022-02-20 17:33:39.757 | INFO     | __main__:train:57 - loss: 0.0014
+2022-02-20 17:33:44.665 | INFO     | __main__:train:57 - loss: 0.0032
+2022-02-20 17:33:49.576 | INFO     | __main__:train:57 - loss: 0.0007
+2022-02-20 17:33:54.468 | INFO     | __main__:train:57 - loss: 0.0044
+2022-02-20 17:33:59.366 | INFO     | __main__:train:57 - loss: 0.0151
+2022-02-20 17:34:04.302 | INFO     | __main__:train:57 - loss: 0.0023
+2022-02-20 17:34:09.238 | INFO     | __main__:train:57 - loss: 0.0030
+2022-02-20 17:34:14.138 | INFO     | __main__:train:57 - loss: 0.0026
+2022-02-20 17:34:19.046 | INFO     | __main__:train:57 - loss: 0.0009
+2022-02-20 17:34:23.986 | INFO     | __main__:train:57 - loss: 0.0009
+2022-02-20 17:34:28.881 | INFO     | __main__:train:57 - loss: 0.0013
+2022-02-20 17:34:33.806 | INFO     | __main__:train:57 - loss: 0.0003
+2022-02-20 17:34:38.716 | INFO     | __main__:train:57 - loss: 0.0015
+2022-02-20 17:34:43.622 | INFO     | __main__:train:57 - loss: 0.0007
+2022-02-20 17:34:48.561 | INFO     | __main__:train:57 - loss: 0.0028
+2022-02-20 17:34:53.467 | INFO     | __main__:train:57 - loss: 0.0038
+2022-02-20 17:34:58.396 | INFO     | __main__:train:57 - loss: 0.0023
+2022-02-20 17:35:03.341 | INFO     | __main__:train:57 - loss: 0.0017
+2022-02-20 17:35:08.303 | INFO     | __main__:train:57 - loss: 0.0017
+2022-02-20 17:35:13.211 | INFO     | __main__:train:57 - loss: 0.0018
+2022-02-20 17:35:18.125 | INFO     | __main__:train:57 - loss: 0.0247
+2022-02-20 17:35:23.046 | INFO     | __main__:train:57 - loss: 0.0009
+2022-02-20 17:35:27.956 | INFO     | __main__:train:57 - loss: 0.0652
+2022-02-20 17:35:32.891 | INFO     | __main__:train:57 - loss: 0.0076
+2022-02-20 17:35:37.813 | INFO     | __main__:train:57 - loss: 0.0063
+2022-02-20 17:35:42.727 | INFO     | __main__:train:57 - loss: 0.0046
+2022-02-20 17:35:47.629 | INFO     | __main__:train:57 - loss: 0.0006
+2022-02-20 17:35:52.551 | INFO     | __main__:train:57 - loss: 0.0007
+2022-02-20 17:35:57.451 | INFO     | __main__:train:57 - loss: 0.0041
+2022-02-20 17:36:02.363 | INFO     | __main__:train:57 - loss: 0.0042
+2022-02-20 17:36:07.314 | INFO     | __main__:train:57 - loss: 0.0009
+2022-02-20 17:36:12.232 | INFO     | __main__:train:57 - loss: 0.0030
+2022-02-20 17:36:17.149 | INFO     | __main__:train:57 - loss: 0.0009
+2022-02-20 17:36:22.087 | INFO     | __main__:train:57 - loss: 0.0010
+2022-02-20 17:36:27.040 | INFO     | __main__:train:57 - loss: 0.0005
+2022-02-20 17:36:31.996 | INFO     | __main__:train:57 - loss: 0.0034
+2022-02-20 17:36:36.924 | INFO     | __main__:train:57 - loss: 0.0005
+2022-02-20 17:36:41.840 | INFO     | __main__:train:57 - loss: 0.0271
+2022-02-20 17:36:46.800 | INFO     | __main__:train:57 - loss: 0.0071
+2022-02-20 17:36:51.721 | INFO     | __main__:train:57 - loss: 0.0071
+2022-02-20 17:36:56.692 | INFO     | __main__:train:57 - loss: 0.0013
+2022-02-20 17:37:01.619 | INFO     | __main__:train:57 - loss: 0.0016
+2022-02-20 17:37:06.532 | INFO     | __main__:train:57 - loss: 0.0010
+2022-02-20 17:37:11.456 | INFO     | __main__:train:57 - loss: 0.0007
+2022-02-20 17:37:16.380 | INFO     | __main__:train:57 - loss: 0.0009
+2022-02-20 17:37:21.298 | INFO     | __main__:train:57 - loss: 0.0011
+2022-02-20 17:37:26.236 | INFO     | __main__:train:57 - loss: 0.0021
+2022-02-20 17:51:52.419 | INFO     | __main__:<module>:124 - run run run
+2022-02-20 17:51:52.419 | INFO     | __main__:<module>:125 - Namespace(batch_size=32, data_path='../data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/macbert_chinese_pretrained', save_path='./model_save', un_supervise=True)
+2022-02-20 17:51:58.387 | INFO     | __main__:train:37 - loss: 0.3462
+2022-02-20 17:52:22.042 | INFO     | __main__:<module>:124 - run run run
+2022-02-20 17:52:22.042 | INFO     | __main__:<module>:125 - Namespace(batch_size=32, data_path='../data/STS-B/', device='cpu', dropout=0.15, lr=3e-05, max_length=64, pooler='first-last-avg', pretrain_model_path='/data/Learn_Project/Backup_Data/macbert_chinese_pretrained', save_path='./model_save', un_supervise=True)
+2022-02-20 17:52:26.048 | INFO     | __main__:train:37 - loss: 0.4981
+2022-02-20 17:52:29.567 | INFO     | __main__:train:43 - higher corrcoef: 0.5876 in batch: 5, save model
+2022-02-20 17:52:30.743 | INFO     | __main__:train:37 - loss: 0.1089
+2022-02-20 17:52:34.198 | INFO     | __main__:train:43 - higher corrcoef: 0.6117 in batch: 10, save model
+2022-02-20 17:52:35.333 | INFO     | __main__:train:37 - loss: 0.0186
+2022-02-20 17:52:38.780 | INFO     | __main__:train:43 - higher corrcoef: 0.6225 in batch: 15, save model
+2022-02-20 17:52:39.939 | INFO     | __main__:train:37 - loss: 0.0514
+2022-02-20 17:52:43.386 | INFO     | __main__:train:43 - higher corrcoef: 0.6304 in batch: 20, save model
+2022-02-20 17:52:44.537 | INFO     | __main__:train:37 - loss: 0.0182
+2022-02-20 17:52:47.926 | INFO     | __main__:train:43 - higher corrcoef: 0.6378 in batch: 25, save model
+2022-02-20 17:52:49.156 | INFO     | __main__:train:37 - loss: 0.0064
+2022-02-20 17:52:52.424 | INFO     | __main__:train:43 - higher corrcoef: 0.6409 in batch: 30, save model
+2022-02-20 17:52:53.640 | INFO     | __main__:train:37 - loss: 0.0054
+2022-02-20 17:52:56.932 | INFO     | __main__:train:43 - higher corrcoef: 0.6417 in batch: 35, save model
+2022-02-20 17:52:58.108 | INFO     | __main__:train:37 - loss: 0.0019
+2022-02-20 17:53:01.402 | INFO     | __main__:train:43 - higher corrcoef: 0.6427 in batch: 40, save model
+2022-02-20 17:53:02.543 | INFO     | __main__:train:37 - loss: 0.0014
+2022-02-20 17:53:06.092 | INFO     | __main__:train:43 - higher corrcoef: 0.6439 in batch: 45, save model
+2022-02-20 17:53:07.245 | INFO     | __main__:train:37 - loss: 0.0140
+2022-02-20 17:53:10.770 | INFO     | __main__:train:43 - higher corrcoef: 0.6461 in batch: 50, save model
+2022-02-20 17:53:11.914 | INFO     | __main__:train:37 - loss: 0.0424
+2022-02-20 17:53:15.400 | INFO     | __main__:train:43 - higher corrcoef: 0.6491 in batch: 55, save model
+2022-02-20 17:53:16.544 | INFO     | __main__:train:37 - loss: 0.0012
+2022-02-20 17:53:20.071 | INFO     | __main__:train:43 - higher corrcoef: 0.6529 in batch: 60, save model
+2022-02-20 17:53:21.219 | INFO     | __main__:train:37 - loss: 0.0010
+2022-02-20 17:53:24.700 | INFO     | __main__:train:43 - higher corrcoef: 0.6610 in batch: 65, save model
+2022-02-20 17:53:25.845 | INFO     | __main__:train:37 - loss: 0.0015
+2022-02-20 17:53:29.306 | INFO     | __main__:train:43 - higher corrcoef: 0.6635 in batch: 70, save model
+2022-02-20 17:53:30.450 | INFO     | __main__:train:37 - loss: 0.0057
+2022-02-20 17:53:33.859 | INFO     | __main__:train:43 - higher corrcoef: 0.6653 in batch: 75, save model
+2022-02-20 17:53:35.013 | INFO     | __main__:train:37 - loss: 0.0016
+2022-02-20 17:53:38.400 | INFO     | __main__:train:43 - higher corrcoef: 0.6679 in batch: 80, save model
+2022-02-20 17:53:39.545 | INFO     | __main__:train:37 - loss: 0.0012
+2022-02-20 17:53:44.119 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-20 17:53:48.662 | INFO     | __main__:train:37 - loss: 0.0086
+2022-02-20 17:53:53.137 | INFO     | __main__:train:37 - loss: 0.0006
+2022-02-20 17:53:57.578 | INFO     | __main__:train:37 - loss: 0.0020
+2022-02-20 17:54:02.196 | INFO     | __main__:train:37 - loss: 0.0040
+2022-02-20 17:54:06.911 | INFO     | __main__:train:37 - loss: 0.0070
+2022-02-20 17:54:10.469 | INFO     | __main__:train:43 - higher corrcoef: 0.6688 in batch: 115, save model
+2022-02-20 17:54:11.617 | INFO     | __main__:train:37 - loss: 0.0021
+2022-02-20 17:54:15.127 | INFO     | __main__:train:43 - higher corrcoef: 0.6689 in batch: 120, save model
+2022-02-20 17:54:16.281 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-20 17:54:19.813 | INFO     | __main__:train:43 - higher corrcoef: 0.6713 in batch: 125, save model
+2022-02-20 17:54:20.963 | INFO     | __main__:train:37 - loss: 0.0002
+2022-02-20 17:54:24.440 | INFO     | __main__:train:43 - higher corrcoef: 0.6715 in batch: 130, save model
+2022-02-20 17:54:25.598 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-20 17:54:29.053 | INFO     | __main__:train:43 - higher corrcoef: 0.6722 in batch: 135, save model
+2022-02-20 17:54:30.206 | INFO     | __main__:train:37 - loss: 0.0634
+2022-02-20 17:54:34.766 | INFO     | __main__:train:37 - loss: 0.0008
+2022-02-20 17:54:38.148 | INFO     | __main__:train:43 - higher corrcoef: 0.6740 in batch: 145, save model
+2022-02-20 17:54:39.307 | INFO     | __main__:train:37 - loss: 0.0017
+2022-02-20 17:54:42.618 | INFO     | __main__:train:43 - higher corrcoef: 0.6753 in batch: 150, save model
+2022-02-20 17:54:43.861 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-20 17:54:47.174 | INFO     | __main__:train:43 - higher corrcoef: 0.6754 in batch: 155, save model
+2022-02-20 17:54:48.387 | INFO     | __main__:train:37 - loss: 0.0013
+2022-02-20 17:54:52.886 | INFO     | __main__:train:37 - loss: 0.0125
+2022-02-20 17:54:57.342 | INFO     | __main__:train:37 - loss: 0.0012
+2022-02-20 17:55:02.051 | INFO     | __main__:train:37 - loss: 0.0009
+2022-02-20 17:55:06.748 | INFO     | __main__:train:37 - loss: 0.0007
+2022-02-20 17:55:11.501 | INFO     | __main__:train:37 - loss: 0.0005
+2022-02-20 17:55:16.208 | INFO     | __main__:train:37 - loss: 0.0008
+2022-02-20 17:55:20.886 | INFO     | __main__:train:37 - loss: 0.0006
+2022-02-20 17:55:25.532 | INFO     | __main__:train:37 - loss: 0.0007
+2022-02-20 17:55:30.143 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-20 17:55:33.566 | INFO     | __main__:train:43 - higher corrcoef: 0.6772 in batch: 205, save model
+2022-02-20 17:55:34.723 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-20 17:55:38.134 | INFO     | __main__:train:43 - higher corrcoef: 0.6833 in batch: 210, save model
+2022-02-20 17:55:39.297 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-20 17:55:42.645 | INFO     | __main__:train:43 - higher corrcoef: 0.6859 in batch: 215, save model
+2022-02-20 17:55:43.902 | INFO     | __main__:train:37 - loss: 0.0009
+2022-02-20 17:55:47.288 | INFO     | __main__:train:43 - higher corrcoef: 0.6874 in batch: 220, save model
+2022-02-20 17:55:48.520 | INFO     | __main__:train:37 - loss: 0.0020
+2022-02-20 17:55:51.875 | INFO     | __main__:train:43 - higher corrcoef: 0.6876 in batch: 225, save model
+2022-02-20 17:55:53.061 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-20 17:55:57.586 | INFO     | __main__:train:37 - loss: 0.0007
+2022-02-20 17:56:02.240 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-20 17:56:06.994 | INFO     | __main__:train:37 - loss: 0.0002
+2022-02-20 17:56:11.750 | INFO     | __main__:train:37 - loss: 0.0007
+2022-02-20 17:56:16.523 | INFO     | __main__:train:37 - loss: 0.0002
+2022-02-20 17:56:21.289 | INFO     | __main__:train:37 - loss: 0.0006
+2022-02-20 17:56:26.056 | INFO     | __main__:train:37 - loss: 0.0006
+2022-02-20 17:56:30.777 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-20 17:56:35.471 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-20 17:56:40.185 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-20 17:56:44.803 | INFO     | __main__:train:37 - loss: 0.0120
+2022-02-20 17:56:49.404 | INFO     | __main__:train:37 - loss: 0.0006
+2022-02-20 17:56:54.043 | INFO     | __main__:train:37 - loss: 0.0003
+2022-02-20 17:56:58.650 | INFO     | __main__:train:37 - loss: 0.0002
+2022-02-20 17:57:03.211 | INFO     | __main__:train:37 - loss: 0.0005
+2022-02-20 17:57:07.736 | INFO     | __main__:train:37 - loss: 0.0004
+2022-02-20 17:57:12.274 | INFO     | __main__:train:37 - loss: 0.0024
+2022-02-20 17:57:17.014 | INFO     | __main__:train:37 - loss: 0.0001
+2022-02-20 17:57:21.775 | INFO     | __main__:train:37 - loss: 0.0039

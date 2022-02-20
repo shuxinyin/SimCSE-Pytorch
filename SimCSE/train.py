@@ -1,4 +1,6 @@
 import argparse
+import sys
+
 from tqdm import tqdm
 from loguru import logger
 
@@ -9,7 +11,7 @@ import torch
 import torch.nn.functional as F
 from torch.utils.data import Dataset, DataLoader
 
-from dataloader import TrainDataset, TestDataset, load_sts_data
+from dataloader import TrainDataset, TestDataset, load_sts_data, load_sts_data_unsup
 from model import SimcseModel, simcse_unsup_loss
 from transformers import BertModel, BertConfig, BertTokenizer
 
@@ -71,16 +73,24 @@ def evaluation(model, dataloader, device):
 def main(args):
     args.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-    train_path_sp = "./data/STS-B/" + "cnsd-sts-train.txt"
-    dev_path_sp = "./data/STS-B/" + "cnsd-sts-dev.txt"
-    pretrain_model_path = "/data/Learn_Project/Backup_Data/macbert_chinese_pretrained"
+    train_path_sp = args.data_path + "cnsd-sts-train.txt"
+    train_path_unsp = args.data_path + "cnsd-sts-train_unsup.txt"
+    dev_path_sp = args.data_path + "cnsd-sts-dev.txt"
+    test_path_sp = args.data_path + "cnsd-sts-test.txt"
+    # pretrain_model_path = "/data/Learn_Project/Backup_Data/macbert_chinese_pretrained"
 
-    train_data_source = load_sts_data(train_path_sp)
-    test_data_source = load_sts_data(dev_path_sp)
+    test_data_source = load_sts_data(test_path_sp)
     tokenizer = BertTokenizer.from_pretrained(args.pretrain_model_path)
+    if args.un_supervise:
+        train_data_source = load_sts_data_unsup(train_path_unsp)
+        train_sents = [data[0] for data in train_data_source]
+        train_dataset = TrainDataset(train_sents, tokenizer, max_len=args.max_length)
+    else:
+        # TODO: supervised method to implement.
+        train_data_source = load_sts_data(train_path_sp)
+        # train_sents = [data[0] for data in train_data_source] + [data[1] for data in train_data_source]
+        train_dataset = TestDataset(train_data_source, tokenizer, max_len=args.max_length)
 
-    train_sents = [data[0] for data in train_data_source] + [data[1] for data in train_data_source]
-    train_dataset = TrainDataset(train_sents, tokenizer, max_len=args.max_length)
     train_dataloader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, num_workers=12)
 
     test_dataset = TestDataset(test_data_source, tokenizer, max_len=args.max_length)
@@ -98,17 +108,19 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--device", type=str, default='cpu', help="gpu or cpu")
     parser.add_argument("--save_path", type=str, default='./model_save')
-    parser.add_argument("--lr", type=float, default=1e-5)
-    parser.add_argument("--dropout", type=float, default=0.1)
+    parser.add_argument("--un_supervise", type=bool, default=True)
+    parser.add_argument("--lr", type=float, default=3e-5)
+    parser.add_argument("--dropout", type=float, default=0.15)
     parser.add_argument("--batch_size", type=float, default=32)
     parser.add_argument("--max_length", type=int, default=64, help="max length of input sentences")
-    parser.add_argument("--data_path", type=str, default="./data/STS-B/")
+    parser.add_argument("--data_path", type=str, default="../data/STS-B/")
     parser.add_argument("--pretrain_model_path", type=str,
-                        default="/data/Learn_Project/Backup_Data/macbert_chinese_pretrained")
+                        default="/data/Learn_Project/Backup_Data/bert_chinese")
     parser.add_argument("--pooler", type=str, choices=['cls', "pooler", "last-avg", "first-last-avg"],
-                        default='cls', help='which pooler to use')
+                        default='first-last-avg', help='which pooler to use')
 
     args = parser.parse_args()
-    logger.add("./log/train.log")
+    logger.add("../log/train.log")
     logger.info("run run run")
+    logger.info(args)
     main(args)
