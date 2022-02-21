@@ -5,13 +5,21 @@ SimCSE在中文上无监督 + 有监督 pytorch版
 > ESimCSE: https://arxiv.org/pdf/2109.04380.pdf
 
 1.database: SNS-B (uploaded)
-> directory: data/SNS-B/
+> directory: data/SNS-B/  
 
-2.how to run?
+2.environment
+> torch==1.8.2  
+> transformers==4.12.3
+> 
+> video card: 3060Ti 8G    
+> Due to the limitation of the graphics card, the batch_size is set very small.  (SimCSE:32, ESimCSE:16).  
+> You can try increasing the batch_size to get better results with video memory allowed.  
+
+3.how to run?
 > SimCSE： python train.py  
 > ESimCSE： python ESimCSE_train.py
 
-3.Result (un-supervised)  
+4.Result (un-supervised)  
 **spearman corrcoef** is shown as result below:
 
 | Model     | un_supervised |
