@@ -12,7 +12,7 @@ SimCSE在中文上无监督 + 有监督 pytorch版
 > transformers==4.12.3
 > 
 > video card: 3060Ti 8G    
-> Due to the limitation of the graphics card, the batch_size is set very small.  (SimCSE:32, ESimCSE:16).  
+> Due to the limitation of the graphics card, the batch_size is set very small.  
 > You can try increasing the batch_size to get better results with video memory allowed.  
 
 3.how to run?
