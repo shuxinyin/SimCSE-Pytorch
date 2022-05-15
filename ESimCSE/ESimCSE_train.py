@@ -24,7 +24,6 @@ def get_bert_input(source, device):
 
 
 def train(model, momentum_encoder, train_dl, dev_dl, optimizer, loss_func, device, save_path, gamma=0.95):
-    """模型训练函数"""
     model.train()
     best = 0
     for batch_idx, (batch_src_source, batch_pos_source, batch_neg_source) in enumerate(tqdm(train_dl), start=1):
@@ -64,9 +63,7 @@ def train(model, momentum_encoder, train_dl, dev_dl, optimizer, loss_func, devic
 
 
 def evaluation(model, dataloader, device):
-    """模型评估函数
-    批量预测, batch结果拼接, 一次性求spearman相关度
-    """
+
     model.eval()
     sim_tensor = torch.tensor([], device=device)
     label_array = np.array([])

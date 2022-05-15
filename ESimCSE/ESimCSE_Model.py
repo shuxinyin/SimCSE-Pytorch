@@ -8,7 +8,6 @@ from transformers import BertModel, BertConfig, BertTokenizer
 
 
 class ESimcseModel(nn.Module):
-    """Simcse无监督模型定义"""
 
     def __init__(self, pretrained_model, pooling, dropout=0.3):
         super(ESimcseModel, self).__init__()
@@ -45,6 +44,7 @@ class MomentumEncoder(ESimcseModel):
 
 
 class MultiNegativeRankingLoss(nn.Module):
+    # code reference: https://github.com/zhoujx4/NLP-Series-sentence-embeddings
     def __init__(self):
         super(MultiNegativeRankingLoss, self).__init__()
         self.cross_entropy_loss = nn.CrossEntropyLoss()

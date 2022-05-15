@@ -1,5 +1,7 @@
-import argparse
+# reference: https://github.com/vdogmcgee/SimCSE-Chinese-Pytorch
+
 import sys
+import argparse
 
 from tqdm import tqdm
 from loguru import logger
@@ -86,7 +88,6 @@ def main(args):
         train_sents = [data[0] for data in train_data_source]
         train_dataset = TrainDataset(train_sents, tokenizer, max_len=args.max_length)
     else:
-        # TODO: supervised method to implement.
         train_data_source = load_sts_data(train_path_sp)
         # train_sents = [data[0] for data in train_data_source] + [data[1] for data in train_data_source]
         train_dataset = TestDataset(train_data_source, tokenizer, max_len=args.max_length)
@@ -121,6 +122,5 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     logger.add("../log/train.log")
-    logger.info("run run run")
     logger.info(args)
     main(args)
