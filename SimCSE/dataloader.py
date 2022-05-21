@@ -58,8 +58,8 @@ class TestDataset(Dataset):
 if __name__ == "__main__":
     import numpy as np
 
-    train_path_sp = "./news/STS-B/" + "cnsd-sts-train.txt"
-    dev_path_sp = "./news/STS-B/" + "cnsd-sts-dev.txt"
+    train_path_sp = "./news_all/STS-B/" + "cnsd-sts-train.txt"
+    dev_path_sp = "./news_all/STS-B/" + "cnsd-sts-dev.txt"
     pretrain_model_path = "/Learn_Project/Backup_Data/macbert_chinese_pretrained"
 
     train_data_source = load_sts_data(train_path_sp)
